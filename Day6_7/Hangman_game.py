@@ -1,6 +1,7 @@
 import random
-word_list=["saif","rashid","moni","tomato"]
-choosen_word=random.choice(word_list)
+import hangman_word
+#word_list=["saif","rashid","moni","tomato"]
+choosen_word=random.choice(hangman_word.word_list)
 print(choosen_word)
 # choosen_word_list=list(choosen_word)
 # print(choosen_word_list)
@@ -13,6 +14,7 @@ game_over=False
 correct_letter=[]
 lives=6
 while not game_over:
+    print(f"*********************{lives}/6 lives left***********************")
     guess=input("guess a letter: ").lower()
     blank_fill_word=""
     for i in choosen_word:
@@ -26,10 +28,11 @@ while not game_over:
 
     if guess not in choosen_word:
         lives-=1
+        print(f"you choose {guess} and you loss a live")
         if lives==0:
             game_over=True
-            print("you lose")
+            print("******************you lose**********************")
     print(blank_fill_word)
     if "_" not in blank_fill_word:
         game_over=True
-        print("you win")
+        print("******************you win************************")
