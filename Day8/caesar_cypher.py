@@ -1,0 +1,1 @@
+def encrypt(orignal_text,shift_amount):
