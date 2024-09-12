@@ -8,13 +8,13 @@ def secret_aucation(key,value):
 
 def higher_bid(bidder_list):
     winner=""
-    heighest_bid=0
+    highest_bid=0
     for bidder in bidder_list:
         bid_amount=bidder_list[bidder]
-        if bid_amount>heighest_bid:
-            heighest_bid=bid_amount
+        if bid_amount>highest_bid:
+            highest_bid=bid_amount
             winner=bidder
-    print(f"winner is {winner} with a bid of {heighest_bid}") 
+    print(f"winner is {winner} with a bid of {highest_bid}") 
 
 
 should_continue=True
