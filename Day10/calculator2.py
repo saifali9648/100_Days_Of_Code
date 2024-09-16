@@ -1,3 +1,4 @@
+import art
 def add(n1,n2):
     return n1+n2
 def substract(n1,n2):
@@ -29,11 +30,14 @@ operation={
 #         return number1/number2
 #     else:
 #         print("select valid opearator and try again:")
+print(art.calculator_logo)
+number1=float(input("enter a number that you want to calculate:-\n"))
 
-number1=int(input("enter a number that you want to calculate:-\n"))
+# for symbol in operation:
+#     print(symbol)
 print("+\n-\n*\n/")
 operator=input("choose a operation that you want:-\n")
-number2=int(input("enter your second number that you want to calclulate:-"))
+number2=float(input("enter your second number that you want to calclulate:-"))
 
 result=(operation[operator](number1,number2))
 should_continiou=True
@@ -42,16 +46,16 @@ while should_continiou:
     if re_calculation=="y":
         print("+\n-\n*\n/")
         operator=input("choose a operation that you want:-\n")
-        number2=int(input("enter your second number that you want to calclulate:-"))
+        number2=float(input("enter your second number that you want to calclulate:-"))
         result=(operation[operator](result,number2))
     elif re_calculation=="n":
         # should_continiou=False
         print(f"{result}")
         result=0
-        number1=int(input("enter a number that you want to calculate:-\n"))
+        number1=float(input("enter a number that you want to calculate:-\n"))
         print("+\n-\n*\n/")
         operator=input("choose a operation that you want:-\n")
-        number2=int(input("enter your second number that you want to calclulate:-"))
+        number2=float(input("enter your second number that you want to calclulate:-"))
 
         result=(operation[operator](number1,number2))
     else:
