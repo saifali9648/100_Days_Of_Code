@@ -1,4 +1,6 @@
 import random
+import art
+print(art.logo)
 random_number=random.randint(1,100)
 
 def number_guessing(level):
