@@ -2,48 +2,54 @@ from art import logo,logo2
 from game_data import data
 import random
 print(logo)
-account_a=random.choice(data)
-account_b=random.choice(data)
-if account_a==account_b:
-    account_b=random.choice(data)
-account_name=account_a["name"]
-account_desc=account_a["description"]
-account_follower=account_a["follower"]
-account_country=account_a["country"]
+score=0
+def format_data(account):
+    account_name=account["name"]
+    account_desc=account["description"]
+    account_follower=account["follower"]
+    account_country=account["country"]
+    return f"{account_name},a {account_desc} from {account_country}"
 
-against_account_name=account_b["name"]
-against_account_desc=account_b["description"]
-against_account_follower=account_b["follower"]
-against_account_country=account_b["country"]
-
-if account_follower>against_account_follower:
-    result='a'
-else:
-    result='b'
-
-
-should_continiue=True
-while should_continiue:
-    print(f"Compare_A : {account_name},{account_desc} from {account_country}")
-    print(logo2)
-    print(f"against_b: {against_account_name},{against_account_desc} from {against_account_country}")
-    user_input=input("who have more followers. Type 'a' and 'b': ")
-    count=1
-    if user_input==result and user_input=='a':
-        count+=1
-        account_name=account_a["name"]
-        account_desc=account_a["description"]
-        account_follower=account_a["follower"]
-        account_country=account_a["country"]
-        should_continiue==True
-    elif user_input==result and user_input=='b':
-        against_account_name=account_b["name"]
-        against_account_desc=account_b["description"]
-        against_account_follower=account_b["follower"]
-        against_account_country=account_b["country"]
-        should_continiue==True
+def check_answer(guess,a_followr,b_follower):
+    if a_followr>b_follower:
+        return guess=='a'
     else:
-        print("invalid input")
+        return guess=='b'
+should_continue=True
+account_b=random.choice(data)
+while should_continue:
+    account_a=account_b
+    account_b=random.choice(data)
+    if account_a==account_b:
+        account_b=random.choice(data)
+
+    print(f"Compare A: {format_data(account_a)}")
+    print(logo2)
+    print(f"against B: {format_data(account_b)}")
+
+    user_input=input("Who has more follower: Type 'A' OR 'B' ").lower()
+    print("\n"*20)
+    print(logo)
+
+    a_follower_count=account_a["follower"]
+    b_follower_count=account_b["follower"]
+
+    is_correct=check_answer(user_input,a_followr=a_follower_count,b_follower=b_follower_count)
+    if is_correct:
+        score+=1
+        print(f"you are right current score {score}")
+    else:
+        print(f"sorry you are wrong: your final score {score}")
+        should_continue=False
+
+
+
+
+
+
+
+
+ 
 
 
 
