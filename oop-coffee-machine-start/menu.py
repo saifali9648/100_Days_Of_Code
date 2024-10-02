@@ -14,9 +14,9 @@ class Menu:
     """Models the Menu with drinks."""
     def __init__(self):
         self.menu = [
-            MenuItem(name="latte", water=200, milk=150, coffee=24, cost=2.5),
-            MenuItem(name="espresso", water=50, milk=0, coffee=18, cost=1.5),
-            MenuItem(name="cappuccino", water=250, milk=50, coffee=24, cost=3),
+            MenuItem(name="latte", water=200, milk=150, coffee=24, cost=210),
+            MenuItem(name="espresso", water=50, milk=0, coffee=18, cost=125),
+            MenuItem(name="cappuccino", water=250, milk=50, coffee=24, cost=250),
         ]
 
     def get_items(self):
@@ -31,4 +31,4 @@ class Menu:
         for item in self.menu:
             if item.name == order_name:
                 return item
-        print("Sorry that item is not available.")
+        print("Sorry that item is not available. Matlab kuch bhi😏 pura flow bigaad diye!!!Can you fix it? github link is given upar")
