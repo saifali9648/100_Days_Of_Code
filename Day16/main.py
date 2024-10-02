@@ -18,8 +18,7 @@
 #         # timmy.right(50)
 # print(my_screen.canvheight)
 # my_screen.exitonclick()
-
-
+from comtypes.tools.codegenerator.packing import dont_assert_size
 from prettytable import PrettyTable
 table = PrettyTable()
 # table.field_names=["student_name","student_roll","marks"]
@@ -54,7 +53,8 @@ table.add_rows(
 ]
 )
 
-
+table.align="l"
+table._style="dot"
 
 # table.field_names = ["City name", "Area", "Population", "Annual Rainfall"]
 # table.add_rows(
