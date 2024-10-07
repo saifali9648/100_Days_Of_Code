@@ -8,7 +8,7 @@ directions=[0,90,180,270]
 
 def random_moves(dir,clr):
     tim.pensize(10)
-    tim.speed(20)
+    tim.speed("fastest")
     tim.color(clr)
     tim.forward(30)
     tim.setheading(dir)
