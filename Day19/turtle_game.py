@@ -26,4 +26,6 @@ tim5.penup()
 tim5.goto(-235,-30)
 tim6.penup()
 tim6.goto(-235,-45)
+
+tim7.goto()
 Screen.exitonclick()
