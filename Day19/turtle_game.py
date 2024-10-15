@@ -1,4 +1,5 @@
 from  turtle import Turtle,Screen
+import random
 tim1=Turtle()
 tim2=Turtle()
 tim3=Turtle()
@@ -26,6 +27,14 @@ tim5.penup()
 tim5.goto(-235,-30)
 tim6.penup()
 tim6.goto(-235,-45)
+tim_list=[tim1,tim2,tim3,tim4,tim5,tim6]
 
-time7.penup()
+
+for i in range(1,500):
+    random_step=random.randint(5,10)
+    random_tim=random.choice(tim_list)
+    random_tim.forward(random_step)
+    print(random_step)
+    
+
 Screen.exitonclick()
