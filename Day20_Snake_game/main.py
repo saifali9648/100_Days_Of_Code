@@ -11,6 +11,4 @@ for i in range(0,2):
     snake.goto(x=x,y=y)
     snake.penup()
     x-=20
-
-
 screen.exitonclick()
