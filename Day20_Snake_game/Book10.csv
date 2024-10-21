@@ -1,0 +1,1001 @@
+orderdate,ordernumber,quantityordered,priceeach,productname,productline,buyprice,city,country
+02-01-2004,10208,46,176.63,2001 Ferrari Enzo,Classic Cars,95.59,Lyon,France
+02-01-2004,10208,26,128.42,1969 Corvair Monza,Classic Cars,89.14,Lyon,France
+02-01-2004,10208,20,152.26,1969 Ford Falcon,Classic Cars,83.05,Lyon,France
+02-01-2004,10208,24,117.47,1903 Ford Model A,Vintage Cars,68.3,Lyon,France
+02-01-2004,10208,48,96.81,Collectable Wooden Train,Trains,67.56,Lyon,France
+02-01-2004,10208,45,72.85,1904 Buick Runabout,Vintage Cars,52.66,Lyon,France
+02-01-2004,10208,35,122.89,18th century schooner,Ships,82.34,Lyon,France
+02-01-2004,10208,20,80.54,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Lyon,France
+02-01-2004,10208,30,57.99,1962 City of Detroit Streetcar,Trains,37.49,Lyon,France
+02-01-2004,10208,38,56.67,The Schooner Bluenose,Ships,34,Lyon,France
+02-01-2004,10208,40,73.62,The Mayflower,Ships,43.3,Lyon,France
+02-01-2004,10208,46,63.61,The USS Constitution Ship,Ships,33.97,Lyon,France
+02-01-2004,10208,37,95.16,The Titanic,Ships,51.09,Lyon,France
+02-01-2004,10208,33,95.34,The Queen Mary,Ships,53.63,Lyon,France
+02-01-2004,10208,42,48.05,Pont Yacht,Ships,33.3,Lyon,France
+09-01-2004,10209,39,129.2,1972 Alfa Romeo GTA,Classic Cars,85.68,Los Angeles,USA
+09-01-2004,10209,28,82.58,1999 Yamaha Speed Boat,Ships,51.61,Los Angeles,USA
+09-01-2004,10209,20,97.4,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Los Angeles,USA
+09-01-2004,10209,43,66.45,1900s Vintage Bi-Plane,Planes,34.25,Los Angeles,USA
+09-01-2004,10209,36,56.55,1937 Horch 930V Limousine,Vintage Cars,26.3,Los Angeles,USA
+09-01-2004,10209,22,79.67,1940 Ford Delivery Sedan,Vintage Cars,48.64,Los Angeles,USA
+09-01-2004,10209,33,90.52,HMS Bounty,Ships,39.83,Los Angeles,USA
+09-01-2004,10209,48,44.2,Boeing X-32A JSF,Planes,32.77,Los Angeles,USA
+12-01-2004,10210,23,112.99,1996 Moto Guzzi 1100i,Motorcycles,68.99,Kita-ku,Japan
+12-01-2004,10210,34,189.79,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Kita-ku,Japan
+12-01-2004,10210,31,141.92,1980s Black Hawk Helicopter,Planes,77.27,Kita-ku,Japan
+12-01-2004,10210,50,68.43,P-51-D Mustang,Planes,49,Kita-ku,Japan
+12-01-2004,10210,40,51.48,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Kita-ku,Japan
+12-01-2004,10210,27,100.67,1928 British Royal Navy Airplane,Planes,66.74,Kita-ku,Japan
+12-01-2004,10210,30,63.22,1960 BSA Gold Star DBD34,Motorcycles,37.32,Kita-ku,Japan
+12-01-2004,10210,29,56.64,Corsair F4U ( Bird Cage),Planes,29.34,Kita-ku,Japan
+12-01-2004,10210,40,68.1,1900s Vintage Tri-Plane,Planes,36.23,Kita-ku,Japan
+12-01-2004,10210,46,84.91,1997 BMW F650 ST,Motorcycles,66.92,Kita-ku,Japan
+12-01-2004,10210,39,57.1,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Kita-ku,Japan
+12-01-2004,10210,43,43.2,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Kita-ku,Japan
+12-01-2004,10210,21,87.69,American Airlines: B767-300,Planes,51.15,Kita-ku,Japan
+12-01-2004,10210,26,93.74,America West Airlines B757-200,Planes,68.8,Kita-ku,Japan
+12-01-2004,10210,25,98.48,ATA: B757-300,Planes,59.33,Kita-ku,Japan
+12-01-2004,10210,31,64,F/A 18 Hornet 1/72,Planes,54.4,Kita-ku,Japan
+12-01-2004,10210,42,60.7,American Airlines: MD-11S,Planes,36.27,Kita-ku,Japan
+15-01-2004,10211,41,90.92,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Paris,France
+15-01-2004,10211,41,171.22,1968 Ford Mustang,Classic Cars,95.34,Paris,France
+15-01-2004,10211,36,126.52,2002 Suzuki XREO,Motorcycles,66.27,Paris,France
+15-01-2004,10211,28,79.8,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Paris,France
+15-01-2004,10211,35,73.17,1969 Dodge Super Bee,Classic Cars,49.05,Paris,France
+15-01-2004,10211,28,138.17,1976 Ford Gran Torino,Classic Cars,73.49,Paris,France
+15-01-2004,10211,46,60.3,1957 Vespa GS150,Motorcycles,32.95,Paris,France
+15-01-2004,10211,41,148.8,1957 Corvette Convertible,Classic Cars,69.93,Paris,France
+15-01-2004,10211,25,109.32,1997 BMW R 1100 S,Motorcycles,60.86,Paris,France
+15-01-2004,10211,21,62.33,1982 Ducati 900 Monster,Motorcycles,47.1,Paris,France
+15-01-2004,10211,48,52.66,1971 Alpine Renault 1600s,Classic Cars,38.58,Paris,France
+15-01-2004,10211,22,80.84,1961 Chevrolet Impala,Classic Cars,32.33,Paris,France
+15-01-2004,10211,41,39.83,1982 Ducati 996 R,Motorcycles,24.14,Paris,France
+15-01-2004,10211,37,94.91,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Paris,France
+15-01-2004,10211,40,70.78,2002 Yamaha YZR M1,Motorcycles,34.17,Paris,France
+16-01-2004,10212,39,99.82,1968 Dodge Charger,Classic Cars,75.16,Madrid,Spain
+16-01-2004,10212,33,110.55,1969 Dodge Charger,Classic Cars,58.73,Madrid,Spain
+16-01-2004,10212,29,117.48,1993 Mazda RX-7,Classic Cars,83.51,Madrid,Spain
+16-01-2004,10212,38,105.77,1965 Aston Martin DB5,Classic Cars,65.96,Madrid,Spain
+16-01-2004,10212,20,64.68,1948 Porsche 356-A Roadster,Classic Cars,53.9,Madrid,Spain
+16-01-2004,10212,41,133.72,1995 Honda Civic,Classic Cars,93.89,Madrid,Spain
+16-01-2004,10212,40,117.48,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Madrid,Spain
+16-01-2004,10212,40,155.79,1992 Ferrari 360 Spider red,Classic Cars,77.9,Madrid,Spain
+16-01-2004,10212,45,115.85,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Madrid,Spain
+16-01-2004,10212,41,61.73,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Madrid,Spain
+16-01-2004,10212,45,43.27,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Madrid,Spain
+16-01-2004,10212,45,81.78,1949 Jaguar XK 120,Classic Cars,47.25,Madrid,Spain
+16-01-2004,10212,34,37.38,1982 Lamborghini Diablo,Classic Cars,16.24,Madrid,Spain
+16-01-2004,10212,27,77.91,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Madrid,Spain
+16-01-2004,10212,46,100.66,2002 Chevy Corvette,Classic Cars,62.11,Madrid,Spain
+16-01-2004,10212,49,117.96,1956 Porsche 356A Coupe,Classic Cars,98.3,Madrid,Spain
+22-01-2004,10213,38,84.67,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,London,UK
+22-01-2004,10213,25,58.44,1957 Ford Thunderbird,Classic Cars,34.21,London,UK
+22-01-2004,10213,27,97.48,1952 Citroen-15CV,Classic Cars,72.82,London,UK
+26-01-2004,10214,30,166.6,1917 Grand Touring Sedan,Vintage Cars,86.7,Madrid,Spain
+26-01-2004,10214,21,53.28,1911 Ford Town Car,Vintage Cars,33.3,Madrid,Spain
+26-01-2004,10214,27,125.86,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Madrid,Spain
+26-01-2004,10214,50,167.06,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Madrid,Spain
+26-01-2004,10214,20,32.19,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Madrid,Spain
+26-01-2004,10214,49,39.87,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Madrid,Spain
+26-01-2004,10214,44,38.57,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Madrid,Spain
+29-01-2004,10215,35,205.73,1952 Alpine Renault 1300,Classic Cars,98.58,Burbank,USA
+29-01-2004,10215,46,100.34,1940 Ford Pickup Truck,Trucks and Buses,58.33,Burbank,USA
+29-01-2004,10215,27,92.47,1937 Lincoln Berline,Vintage Cars,60.62,Burbank,USA
+29-01-2004,10215,33,53.91,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Burbank,USA
+29-01-2004,10215,49,97.26,1913 Ford Model T Speedster,Vintage Cars,60.78,Burbank,USA
+29-01-2004,10215,31,56.21,1934 Ford V8 Coupe,Vintage Cars,34.35,Burbank,USA
+29-01-2004,10215,49,89.01,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Burbank,USA
+29-01-2004,10215,41,84.33,1917 Maxwell Touring Car,Vintage Cars,57.54,Burbank,USA
+29-01-2004,10215,46,42.76,1939 Cadillac Limousine,Vintage Cars,23.14,Burbank,USA
+29-01-2004,10215,39,94.47,1936 Chrysler Airflow,Vintage Cars,57.46,Burbank,USA
+02-02-2004,10216,43,133.94,1958 Setra Bus,Trucks and Buses,77.9,Versailles,France
+04-02-2004,10217,48,132.97,1962 LanciaA Delta 16V,Classic Cars,103.42,Singapore,Singapore
+04-02-2004,10217,35,58.34,1926 Ford Fire Engine,Trucks and Buses,24.92,Singapore,Singapore
+04-02-2004,10217,38,118.66,1940s Ford truck,Trucks and Buses,84.76,Singapore,Singapore
+04-02-2004,10217,28,103.51,1962 Volkswagen Microbus,Trucks and Buses,61.34,Singapore,Singapore
+04-02-2004,10217,21,78.97,1980’s GM Manhattan Express,Trucks and Buses,53.93,Singapore,Singapore
+04-02-2004,10217,39,56.24,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Singapore,Singapore
+04-02-2004,10217,31,90.02,1982 Camaro Z28,Classic Cars,46.53,Singapore,Singapore
+09-02-2004,10218,22,110.46,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Milan,Italy
+09-02-2004,10218,34,152.41,1992 Ferrari 360 Spider red,Classic Cars,77.9,Milan,Italy
+10-02-2004,10219,48,94.8,1957 Chevy Pickup,Trucks and Buses,55.7,Brisbane,USA
+10-02-2004,10219,43,132.62,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Brisbane,USA
+10-02-2004,10219,21,31.12,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Brisbane,USA
+10-02-2004,10219,35,47.62,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Brisbane,USA
+12-02-2004,10220,32,189.1,2001 Ferrari Enzo,Classic Cars,95.59,Dublin,Ireland
+12-02-2004,10220,30,151.08,1969 Corvair Monza,Classic Cars,89.14,Dublin,Ireland
+12-02-2004,10220,27,166.1,1969 Ford Falcon,Classic Cars,83.05,Dublin,Ireland
+12-02-2004,10220,50,126.39,1970 Triumph Spitfire,Classic Cars,91.92,Dublin,Ireland
+12-02-2004,10220,26,48.55,1970 Dodge Coronet,Classic Cars,32.37,Dublin,Ireland
+12-02-2004,10220,37,101.72,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Dublin,Ireland
+12-02-2004,10220,20,49.71,1950's Chicago Surface Lines Streetcar,Trains,26.72,Dublin,Ireland
+12-02-2004,10220,37,92.6,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Dublin,Ireland
+12-02-2004,10220,30,56.82,1962 City of Detroit Streetcar,Trains,37.49,Dublin,Ireland
+18-02-2004,10221,33,133.86,1903 Ford Model A,Vintage Cars,68.3,Bruxelles,Belgium
+18-02-2004,10221,23,89.75,Collectable Wooden Train,Trains,67.56,Bruxelles,Belgium
+18-02-2004,10221,39,84.26,1904 Buick Runabout,Vintage Cars,52.66,Bruxelles,Belgium
+18-02-2004,10221,49,113.06,18th century schooner,Ships,82.34,Bruxelles,Belgium
+18-02-2004,10221,23,69.29,The Mayflower,Ships,43.3,Bruxelles,Belgium
+19-02-2004,10222,49,133.28,1972 Alfa Romeo GTA,Classic Cars,85.68,San Diego,USA
+19-02-2004,10222,49,137.19,1980s Black Hawk Helicopter,Planes,77.27,San Diego,USA
+19-02-2004,10222,49,79.14,1999 Yamaha Speed Boat,Ships,51.61,San Diego,USA
+19-02-2004,10222,45,88.93,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,San Diego,USA
+19-02-2004,10222,32,56.86,1900s Vintage Bi-Plane,Planes,34.25,San Diego,USA
+19-02-2004,10222,47,74.35,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,San Diego,USA
+19-02-2004,10222,43,61.15,1937 Horch 930V Limousine,Vintage Cars,26.3,San Diego,USA
+19-02-2004,10222,46,77.99,1940 Ford Delivery Sedan,Vintage Cars,48.64,San Diego,USA
+19-02-2004,10222,48,55.27,Corsair F4U ( Bird Cage),Planes,29.34,San Diego,USA
+19-02-2004,10222,31,58.67,The Schooner Bluenose,Ships,34,San Diego,USA
+19-02-2004,10222,26,80.56,HMS Bounty,Ships,39.83,San Diego,USA
+19-02-2004,10222,37,90.75,America West Airlines B757-200,Planes,68.8,San Diego,USA
+19-02-2004,10222,36,69.39,The USS Constitution Ship,Ships,33.97,San Diego,USA
+19-02-2004,10222,38,84.14,The Titanic,Ships,51.09,San Diego,USA
+19-02-2004,10222,31,81.43,The Queen Mary,Ships,53.63,San Diego,USA
+19-02-2004,10222,43,66.63,American Airlines: MD-11S,Planes,36.27,San Diego,USA
+19-02-2004,10222,31,45.19,Boeing X-32A JSF,Planes,32.77,San Diego,USA
+19-02-2004,10222,36,48.59,Pont Yacht,Ships,33.3,San Diego,USA
+20-02-2004,10223,37,80.39,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Melbourne,Australia
+20-02-2004,10223,47,110.61,1996 Moto Guzzi 1100i,Motorcycles,68.99,Melbourne,Australia
+20-02-2004,10223,49,189.79,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Melbourne,Australia
+20-02-2004,10223,47,67.58,P-51-D Mustang,Planes,49,Melbourne,Australia
+20-02-2004,10223,28,58.75,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Melbourne,Australia
+20-02-2004,10223,32,104.81,1997 BMW R 1100 S,Motorcycles,60.86,Melbourne,Australia
+20-02-2004,10223,34,87.54,1928 British Royal Navy Airplane,Planes,66.74,Melbourne,Australia
+20-02-2004,10223,38,60.94,1960 BSA Gold Star DBD34,Motorcycles,37.32,Melbourne,Australia
+20-02-2004,10223,23,68.1,1900s Vintage Tri-Plane,Planes,36.23,Melbourne,Australia
+20-02-2004,10223,21,90.9,1997 BMW F650 ST,Motorcycles,66.92,Melbourne,Australia
+20-02-2004,10223,20,66.73,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Melbourne,Australia
+20-02-2004,10223,41,41.02,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Melbourne,Australia
+20-02-2004,10223,25,84.03,American Airlines: B767-300,Planes,51.15,Melbourne,Australia
+20-02-2004,10223,29,113.9,ATA: B757-300,Planes,59.33,Melbourne,Australia
+20-02-2004,10223,26,79.2,F/A 18 Hornet 1/72,Planes,54.4,Melbourne,Australia
+21-02-2004,10224,43,141.58,2002 Suzuki XREO,Motorcycles,66.27,Lille,France
+21-02-2004,10224,38,57.2,1957 Vespa GS150,Motorcycles,32.95,Lille,France
+21-02-2004,10224,37,60.26,1982 Ducati 900 Monster,Motorcycles,47.1,Lille,France
+21-02-2004,10224,43,37.01,1982 Ducati 996 R,Motorcycles,24.14,Lille,France
+21-02-2004,10224,30,94.91,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Lille,France
+21-02-2004,10224,50,81.36,2002 Yamaha YZR M1,Motorcycles,34.17,Lille,France
+22-02-2004,10225,27,157.6,1968 Ford Mustang,Classic Cars,95.34,Genève,Switzerland
+22-02-2004,10225,25,101,1968 Dodge Charger,Classic Cars,75.16,Genève,Switzerland
+22-02-2004,10225,37,64.64,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Genève,Switzerland
+22-02-2004,10225,21,100.19,1969 Dodge Charger,Classic Cars,58.73,Genève,Switzerland
+22-02-2004,10225,32,116.06,1993 Mazda RX-7,Classic Cars,83.51,Genève,Switzerland
+22-02-2004,10225,47,71.61,1948 Porsche 356-A Roadster,Classic Cars,53.9,Genève,Switzerland
+22-02-2004,10225,43,162.57,1992 Ferrari 360 Spider red,Classic Cars,77.9,Genève,Switzerland
+22-02-2004,10225,37,69.96,1969 Dodge Super Bee,Classic Cars,49.05,Genève,Switzerland
+22-02-2004,10225,27,119.06,1976 Ford Gran Torino,Classic Cars,73.49,Genève,Switzerland
+22-02-2004,10225,35,135.41,1957 Corvette Convertible,Classic Cars,69.93,Genève,Switzerland
+22-02-2004,10225,42,34.74,1982 Lamborghini Diablo,Classic Cars,16.24,Genève,Switzerland
+22-02-2004,10225,24,51.43,1971 Alpine Renault 1600s,Classic Cars,38.58,Genève,Switzerland
+22-02-2004,10225,40,130.6,1956 Porsche 356A Coupe,Classic Cars,98.3,Genève,Switzerland
+22-02-2004,10225,46,77.61,1961 Chevrolet Impala,Classic Cars,32.33,Genève,Switzerland
+26-02-2004,10226,38,108.26,1965 Aston Martin DB5,Classic Cars,65.96,San Diego,USA
+26-02-2004,10226,24,129.45,1995 Honda Civic,Classic Cars,93.89,San Diego,USA
+26-02-2004,10226,24,125.4,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,San Diego,USA
+26-02-2004,10226,46,122.91,1948 Porsche Type 356 Roadster,Classic Cars,62.16,San Diego,USA
+26-02-2004,10226,21,65.41,1970 Chevy Chevelle SS 454,Classic Cars,49.24,San Diego,USA
+26-02-2004,10226,36,47.79,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,San Diego,USA
+26-02-2004,10226,48,95.3,2002 Chevy Corvette,Classic Cars,62.11,San Diego,USA
+02-03-2004,10227,25,85.27,1937 Lincoln Berline,Vintage Cars,60.62,Lyon,France
+02-03-2004,10227,31,50.14,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Lyon,France
+02-03-2004,10227,26,136,1917 Grand Touring Sedan,Vintage Cars,86.7,Lyon,France
+02-03-2004,10227,28,59.93,1911 Ford Town Car,Vintage Cars,33.3,Lyon,France
+02-03-2004,10227,46,118.23,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Lyon,France
+02-03-2004,10227,29,146.81,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Lyon,France
+02-03-2004,10227,33,99.21,1917 Maxwell Touring Car,Vintage Cars,57.54,Lyon,France
+02-03-2004,10227,34,87.43,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Lyon,France
+02-03-2004,10227,37,70.56,1957 Ford Thunderbird,Classic Cars,34.21,Lyon,France
+02-03-2004,10227,42,27.22,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Lyon,France
+02-03-2004,10227,24,39.42,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Lyon,France
+02-03-2004,10227,47,84.51,1949 Jaguar XK 120,Classic Cars,47.25,Lyon,France
+02-03-2004,10227,33,102.17,1952 Citroen-15CV,Classic Cars,72.82,Lyon,France
+02-03-2004,10227,40,78.76,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Lyon,France
+02-03-2004,10227,27,34.88,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Lyon,France
+10-03-2004,10228,29,214.3,1952 Alpine Renault 1300,Classic Cars,98.58,Cambridge,USA
+10-03-2004,10228,32,100.34,1940 Ford Pickup Truck,Trucks and Buses,58.33,Cambridge,USA
+10-03-2004,10228,24,101.31,1913 Ford Model T Speedster,Vintage Cars,60.78,Cambridge,USA
+10-03-2004,10228,45,57.46,1934 Ford V8 Coupe,Vintage Cars,34.35,Cambridge,USA
+10-03-2004,10228,31,100.53,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Cambridge,USA
+10-03-2004,10228,33,84.73,1936 Chrysler Airflow,Vintage Cars,57.46,Cambridge,USA
+11-03-2004,10229,50,138.88,1962 LanciaA Delta 16V,Classic Cars,103.42,San Rafael,USA
+11-03-2004,10229,25,110.7,1958 Setra Bus,Trucks and Buses,77.9,San Rafael,USA
+11-03-2004,10229,36,95.99,1957 Chevy Pickup,Trucks and Buses,55.7,San Rafael,USA
+11-03-2004,10229,26,104.32,1964 Mercedes Tour Bus,Trucks and Buses,74.86,San Rafael,USA
+11-03-2004,10229,28,53.48,1926 Ford Fire Engine,Trucks and Buses,24.92,San Rafael,USA
+11-03-2004,10229,22,157.49,1992 Ferrari 360 Spider red,Classic Cars,77.9,San Rafael,USA
+11-03-2004,10229,41,119.87,1940s Ford truck,Trucks and Buses,84.76,San Rafael,USA
+11-03-2004,10229,39,43.77,1939 Cadillac Limousine,Vintage Cars,23.14,San Rafael,USA
+11-03-2004,10229,48,115.01,1962 Volkswagen Microbus,Trucks and Buses,61.34,San Rafael,USA
+11-03-2004,10229,33,34.65,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,San Rafael,USA
+11-03-2004,10229,25,78.97,1980’s GM Manhattan Express,Trucks and Buses,53.93,San Rafael,USA
+11-03-2004,10229,23,49.78,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,San Rafael,USA
+11-03-2004,10229,30,52.36,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,San Rafael,USA
+11-03-2004,10229,50,91.04,1982 Camaro Z28,Classic Cars,46.53,San Rafael,USA
+15-03-2004,10230,43,128.42,1969 Corvair Monza,Classic Cars,89.14,Frankfurt,Germany
+15-03-2004,10230,49,153.91,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Frankfurt,Germany
+15-03-2004,10230,42,142.18,1970 Triumph Spitfire,Classic Cars,91.92,Frankfurt,Germany
+15-03-2004,10230,36,47.4,1970 Dodge Coronet,Classic Cars,32.37,Frankfurt,Germany
+15-03-2004,10230,45,99.36,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Frankfurt,Germany
+15-03-2004,10230,46,59.03,1950's Chicago Surface Lines Streetcar,Trains,26.72,Frankfurt,Germany
+15-03-2004,10230,34,100.7,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Frankfurt,Germany
+15-03-2004,10230,43,57.41,1962 City of Detroit Streetcar,Trains,37.49,Frankfurt,Germany
+19-03-2004,10231,42,193.25,2001 Ferrari Enzo,Classic Cars,95.59,Madrid,Spain
+19-03-2004,10231,49,147.07,1969 Ford Falcon,Classic Cars,83.05,Madrid,Spain
+20-03-2004,10232,22,133.86,1903 Ford Model A,Vintage Cars,68.3,Cowes,UK
+20-03-2004,10232,48,97.81,Collectable Wooden Train,Trains,67.56,Cowes,UK
+20-03-2004,10232,23,78.12,1904 Buick Runabout,Vintage Cars,52.66,Cowes,UK
+20-03-2004,10232,46,113.06,18th century schooner,Ships,82.34,Cowes,UK
+20-03-2004,10232,26,84.88,The Mayflower,Ships,43.3,Cowes,UK
+20-03-2004,10232,48,86.15,The Titanic,Ships,51.09,Cowes,UK
+20-03-2004,10232,35,81.43,The Queen Mary,Ships,53.63,Cowes,UK
+20-03-2004,10232,24,48.59,Pont Yacht,Ships,33.3,Cowes,UK
+29-03-2004,10233,40,70.81,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Newark,USA
+29-03-2004,10233,36,66,The Schooner Bluenose,Ships,34,Newark,USA
+29-03-2004,10233,29,67.94,The USS Constitution Ship,Ships,33.97,Newark,USA
+30-03-2004,10234,48,118.32,1972 Alfa Romeo GTA,Classic Cars,85.68,Wellington,New Zealand
+30-03-2004,10234,50,146.65,1980s Black Hawk Helicopter,Planes,77.27,Wellington,New Zealand
+30-03-2004,10234,48,84.3,1999 Yamaha Speed Boat,Ships,51.61,Wellington,New Zealand
+30-03-2004,10234,39,85.75,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Wellington,New Zealand
+30-03-2004,10234,44,67.14,1900s Vintage Bi-Plane,Planes,34.25,Wellington,New Zealand
+30-03-2004,10234,25,65.09,1937 Horch 930V Limousine,Vintage Cars,26.3,Wellington,New Zealand
+30-03-2004,10234,31,78.83,1940 Ford Delivery Sedan,Vintage Cars,48.64,Wellington,New Zealand
+30-03-2004,10234,29,83.28,HMS Bounty,Ships,39.83,Wellington,New Zealand
+30-03-2004,10234,40,45.69,Boeing X-32A JSF,Planes,32.77,Wellington,New Zealand
+02-04-2004,10235,24,81.95,P-51-D Mustang,Planes,49,Tsawassen,Canada
+02-04-2004,10235,23,89.72,1928 British Royal Navy Airplane,Planes,66.74,Tsawassen,Canada
+02-04-2004,10235,33,55.27,Corsair F4U ( Bird Cage),Planes,29.34,Tsawassen,Canada
+02-04-2004,10235,40,63.03,1900s Vintage Tri-Plane,Planes,36.23,Tsawassen,Canada
+02-04-2004,10235,41,90.9,1997 BMW F650 ST,Motorcycles,66.92,Tsawassen,Canada
+02-04-2004,10235,34,66.73,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Tsawassen,Canada
+02-04-2004,10235,41,37.09,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Tsawassen,Canada
+02-04-2004,10235,25,88.6,American Airlines: B767-300,Planes,51.15,Tsawassen,Canada
+02-04-2004,10235,38,92.74,America West Airlines B757-200,Planes,68.8,Tsawassen,Canada
+02-04-2004,10235,25,116.28,ATA: B757-300,Planes,59.33,Tsawassen,Canada
+02-04-2004,10235,32,73.6,F/A 18 Hornet 1/72,Planes,54.4,Tsawassen,Canada
+02-04-2004,10235,34,70.33,American Airlines: MD-11S,Planes,36.27,Tsawassen,Canada
+03-04-2004,10236,22,105.86,1996 Moto Guzzi 1100i,Motorcycles,68.99,Philadelphia,USA
+03-04-2004,10236,23,52.7,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Philadelphia,USA
+03-04-2004,10236,36,65.51,1960 BSA Gold Star DBD34,Motorcycles,37.32,Philadelphia,USA
+05-04-2004,10237,23,91.87,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,NYC,USA
+05-04-2004,10237,39,158.8,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,NYC,USA
+05-04-2004,10237,32,129.53,2002 Suzuki XREO,Motorcycles,66.27,NYC,USA
+05-04-2004,10237,26,49.74,1957 Vespa GS150,Motorcycles,32.95,NYC,USA
+05-04-2004,10237,20,109.32,1997 BMW R 1100 S,Motorcycles,60.86,NYC,USA
+05-04-2004,10237,26,62.33,1982 Ducati 900 Monster,Motorcycles,47.1,NYC,USA
+05-04-2004,10237,26,35,1982 Ducati 996 R,Motorcycles,24.14,NYC,USA
+05-04-2004,10237,27,94.91,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,NYC,USA
+05-04-2004,10237,20,78.92,2002 Yamaha YZR M1,Motorcycles,34.17,NYC,USA
+09-04-2004,10238,28,161.49,1968 Ford Mustang,Classic Cars,95.34,Kobenhavn,Denmark
+09-04-2004,10238,29,104.52,1968 Dodge Charger,Classic Cars,75.16,Kobenhavn,Denmark
+09-04-2004,10238,20,73.42,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Kobenhavn,Denmark
+09-04-2004,10238,41,68.35,1969 Dodge Super Bee,Classic Cars,49.05,Kobenhavn,Denmark
+09-04-2004,10238,49,144.05,1976 Ford Gran Torino,Classic Cars,73.49,Kobenhavn,Denmark
+09-04-2004,10238,44,120.53,1957 Corvette Convertible,Classic Cars,69.93,Kobenhavn,Denmark
+09-04-2004,10238,47,53.88,1971 Alpine Renault 1600s,Classic Cars,38.58,Kobenhavn,Denmark
+09-04-2004,10238,22,67.91,1961 Chevrolet Impala,Classic Cars,32.33,Kobenhavn,Denmark
+12-04-2004,10239,21,100.19,1969 Dodge Charger,Classic Cars,58.73,Oulu,Finland
+12-04-2004,10239,46,70.07,1948 Porsche 356-A Roadster,Classic Cars,53.9,Oulu,Finland
+12-04-2004,10239,47,135.47,1992 Ferrari 360 Spider red,Classic Cars,77.9,Oulu,Finland
+12-04-2004,10239,20,32.47,1982 Lamborghini Diablo,Classic Cars,16.24,Oulu,Finland
+12-04-2004,10239,29,133.41,1956 Porsche 356A Coupe,Classic Cars,98.3,Oulu,Finland
+13-04-2004,10240,41,125.97,1993 Mazda RX-7,Classic Cars,83.51,Kita-ku,Japan
+13-04-2004,10240,37,136.56,1995 Honda Civic,Classic Cars,93.89,Kita-ku,Japan
+13-04-2004,10240,37,134.22,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Kita-ku,Japan
+13-04-2004,10241,21,119.46,1965 Aston Martin DB5,Classic Cars,65.96,Strasbourg,France
+13-04-2004,10241,41,153,1917 Grand Touring Sedan,Vintage Cars,86.7,Strasbourg,France
+13-04-2004,10241,33,55.7,1911 Ford Town Car,Vintage Cars,33.3,Strasbourg,France
+13-04-2004,10241,44,126.72,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Strasbourg,France
+13-04-2004,10241,42,77.31,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Strasbourg,France
+13-04-2004,10241,30,62.72,1957 Ford Thunderbird,Classic Cars,34.21,Strasbourg,France
+13-04-2004,10241,22,72.02,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Strasbourg,France
+13-04-2004,10241,21,47.29,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Strasbourg,France
+13-04-2004,10241,47,89.05,1949 Jaguar XK 120,Classic Cars,47.25,Strasbourg,France
+13-04-2004,10241,28,117.44,1952 Citroen-15CV,Classic Cars,72.82,Strasbourg,France
+13-04-2004,10241,26,69.34,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Strasbourg,France
+13-04-2004,10241,27,107.08,2002 Chevy Corvette,Classic Cars,62.11,Strasbourg,France
+20-04-2004,10242,46,36.52,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,NYC,USA
+26-04-2004,10243,47,111.87,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Boston,USA
+26-04-2004,10243,33,30.87,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Boston,USA
+29-04-2004,10244,40,99.66,1937 Lincoln Berline,Vintage Cars,60.62,Madrid,Spain
+29-04-2004,10244,20,48.52,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Madrid,Spain
+29-04-2004,10244,43,141.75,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Madrid,Spain
+29-04-2004,10244,30,87.13,1913 Ford Model T Speedster,Vintage Cars,60.78,Madrid,Spain
+29-04-2004,10244,24,54.96,1934 Ford V8 Coupe,Vintage Cars,34.35,Madrid,Spain
+29-04-2004,10244,29,85.87,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Madrid,Spain
+29-04-2004,10244,36,87.3,1917 Maxwell Touring Car,Vintage Cars,57.54,Madrid,Spain
+29-04-2004,10244,39,42.11,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Madrid,Spain
+29-04-2004,10244,40,97.39,1936 Chrysler Airflow,Vintage Cars,57.46,Madrid,Spain
+04-05-2004,10245,34,195.01,1952 Alpine Renault 1300,Classic Cars,98.58,New Haven,USA
+04-05-2004,10245,28,147.74,1962 LanciaA Delta 16V,Classic Cars,103.42,New Haven,USA
+04-05-2004,10245,38,120.27,1958 Setra Bus,Trucks and Buses,77.9,New Haven,USA
+04-05-2004,10245,29,114.34,1940 Ford Pickup Truck,Trucks and Buses,58.33,New Haven,USA
+04-05-2004,10245,21,111.39,1940s Ford truck,Trucks and Buses,84.76,New Haven,USA
+04-05-2004,10245,45,48.8,1939 Cadillac Limousine,Vintage Cars,23.14,New Haven,USA
+04-05-2004,10245,37,81.86,1980’s GM Manhattan Express,Trucks and Buses,53.93,New Haven,USA
+04-05-2004,10245,44,54.94,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,New Haven,USA
+04-05-2004,10245,44,81.93,1982 Camaro Z28,Classic Cars,46.53,New Haven,USA
+05-05-2004,10246,46,99.54,1957 Chevy Pickup,Trucks and Buses,55.7,Madrid,Spain
+05-05-2004,10246,40,144.08,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Madrid,Spain
+05-05-2004,10246,22,100.64,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Madrid,Spain
+05-05-2004,10246,30,57.73,1926 Ford Fire Engine,Trucks and Buses,24.92,Madrid,Spain
+05-05-2004,10246,36,145.63,1992 Ferrari 360 Spider red,Classic Cars,77.9,Madrid,Spain
+05-05-2004,10246,44,46.24,1970 Dodge Coronet,Classic Cars,32.37,Madrid,Spain
+05-05-2004,10246,29,118.84,1962 Volkswagen Microbus,Trucks and Buses,61.34,Madrid,Spain
+05-05-2004,10246,49,34.65,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Madrid,Spain
+05-05-2004,10246,46,100.54,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Madrid,Spain
+05-05-2004,10246,35,45.45,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Madrid,Spain
+05-05-2004,10246,22,113.44,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Madrid,Spain
+05-05-2004,10247,44,195.33,2001 Ferrari Enzo,Classic Cars,95.59,Espoo,Finland
+05-05-2004,10247,25,140.5,1969 Corvair Monza,Classic Cars,89.14,Espoo,Finland
+05-05-2004,10247,27,167.83,1969 Ford Falcon,Classic Cars,83.05,Espoo,Finland
+05-05-2004,10247,48,143.62,1970 Triumph Spitfire,Classic Cars,91.92,Espoo,Finland
+05-05-2004,10247,40,58.41,1950's Chicago Surface Lines Streetcar,Trains,26.72,Espoo,Finland
+05-05-2004,10247,49,51.55,1962 City of Detroit Streetcar,Trains,37.49,Espoo,Finland
+07-05-2004,10248,20,126.48,1972 Alfa Romeo GTA,Classic Cars,85.68,NYC,USA
+07-05-2004,10248,21,80.86,1999 Yamaha Speed Boat,Ships,51.61,NYC,USA
+07-05-2004,10248,32,133.86,1903 Ford Model A,Vintage Cars,68.3,NYC,USA
+07-05-2004,10248,42,95.8,Collectable Wooden Train,Trains,67.56,NYC,USA
+07-05-2004,10248,42,87.77,1904 Buick Runabout,Vintage Cars,52.66,NYC,USA
+07-05-2004,10248,48,122.89,18th century schooner,Ships,82.34,NYC,USA
+07-05-2004,10248,30,85.85,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,NYC,USA
+07-05-2004,10248,23,83.02,1940 Ford Delivery Sedan,Vintage Cars,48.64,NYC,USA
+07-05-2004,10248,36,66,The Schooner Bluenose,Ships,34,NYC,USA
+07-05-2004,10248,40,81.41,The Mayflower,Ships,43.3,NYC,USA
+07-05-2004,10248,32,69.39,The USS Constitution Ship,Ships,33.97,NYC,USA
+07-05-2004,10248,30,84.14,The Titanic,Ships,51.09,NYC,USA
+07-05-2004,10248,35,92.36,The Queen Mary,Ships,53.63,NYC,USA
+07-05-2004,10248,23,53.51,Pont Yacht,Ships,33.3,NYC,USA
+08-05-2004,10249,46,88.93,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Cambridge,USA
+08-05-2004,10249,20,54.81,1900s Vintage Bi-Plane,Planes,34.25,Cambridge,USA
+08-05-2004,10249,25,65.75,1937 Horch 930V Limousine,Vintage Cars,26.3,Cambridge,USA
+08-05-2004,10249,40,85.99,HMS Bounty,Ships,39.83,Cambridge,USA
+08-05-2004,10249,32,49.16,Boeing X-32A JSF,Planes,32.77,Cambridge,USA
+11-05-2004,10250,45,148.23,1980s Black Hawk Helicopter,Planes,77.27,San Jose,USA
+11-05-2004,10250,27,84.48,P-51-D Mustang,Planes,49,San Jose,USA
+11-05-2004,10250,31,95.2,1928 British Royal Navy Airplane,Planes,66.74,San Jose,USA
+11-05-2004,10250,32,63.22,1960 BSA Gold Star DBD34,Motorcycles,37.32,San Jose,USA
+11-05-2004,10250,40,61.42,Corsair F4U ( Bird Cage),Planes,29.34,San Jose,USA
+11-05-2004,10250,37,72.45,1900s Vintage Tri-Plane,Planes,36.23,San Jose,USA
+11-05-2004,10250,31,99.89,1997 BMW F650 ST,Motorcycles,66.92,San Jose,USA
+11-05-2004,10250,50,62.6,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,San Jose,USA
+11-05-2004,10250,36,36.66,1930 Buick Marquette Phaeton,Vintage Cars,27.06,San Jose,USA
+11-05-2004,10250,31,91.34,American Airlines: B767-300,Planes,51.15,San Jose,USA
+11-05-2004,10250,35,90.75,America West Airlines B757-200,Planes,68.8,San Jose,USA
+11-05-2004,10250,44,98.48,ATA: B757-300,Planes,59.33,San Jose,USA
+11-05-2004,10250,44,76,F/A 18 Hornet 1/72,Planes,54.4,San Jose,USA
+11-05-2004,10250,38,65.89,American Airlines: MD-11S,Planes,36.27,San Jose,USA
+18-05-2004,10251,59,93.79,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Newark,USA
+18-05-2004,10251,44,115.37,1996 Moto Guzzi 1100i,Motorcycles,68.99,Newark,USA
+18-05-2004,10251,43,172.36,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Newark,USA
+18-05-2004,10251,46,129.53,2002 Suzuki XREO,Motorcycles,66.27,Newark,USA
+18-05-2004,10251,44,58.15,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Newark,USA
+18-05-2004,10251,50,91.29,1997 BMW R 1100 S,Motorcycles,60.86,Newark,USA
+26-05-2004,10252,20,74.78,1969 Dodge Super Bee,Classic Cars,49.05,Paris,France
+26-05-2004,10252,41,145.52,1976 Ford Gran Torino,Classic Cars,73.49,Paris,France
+26-05-2004,10252,31,50.36,1957 Vespa GS150,Motorcycles,32.95,Paris,France
+26-05-2004,10252,26,127.97,1957 Corvette Convertible,Classic Cars,69.93,Paris,France
+26-05-2004,10252,47,63.03,1982 Ducati 900 Monster,Motorcycles,47.1,Paris,France
+26-05-2004,10252,38,69.52,1961 Chevrolet Impala,Classic Cars,32.33,Paris,France
+26-05-2004,10252,36,36.21,1982 Ducati 996 R,Motorcycles,24.14,Paris,France
+26-05-2004,10252,25,93.89,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Paris,France
+26-05-2004,10252,48,72.41,2002 Yamaha YZR M1,Motorcycles,34.17,Paris,France
+01-06-2004,10253,24,157.6,1968 Ford Mustang,Classic Cars,95.34,Liverpool,UK
+01-06-2004,10253,22,102.17,1968 Dodge Charger,Classic Cars,75.16,Liverpool,UK
+01-06-2004,10253,25,67.03,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Liverpool,UK
+01-06-2004,10253,41,109.4,1969 Dodge Charger,Classic Cars,58.73,Liverpool,UK
+01-06-2004,10253,26,130.22,1993 Mazda RX-7,Classic Cars,83.51,Liverpool,UK
+01-06-2004,10253,24,103.29,1965 Aston Martin DB5,Classic Cars,65.96,Liverpool,UK
+01-06-2004,10253,23,67.76,1948 Porsche 356-A Roadster,Classic Cars,53.9,Liverpool,UK
+01-06-2004,10253,33,130.87,1995 Honda Civic,Classic Cars,93.89,Liverpool,UK
+01-06-2004,10253,37,114.84,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Liverpool,UK
+01-06-2004,10253,40,145.63,1992 Ferrari 360 Spider red,Classic Cars,77.9,Liverpool,UK
+01-06-2004,10253,31,139.87,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Liverpool,UK
+01-06-2004,10253,40,34.74,1982 Lamborghini Diablo,Classic Cars,16.24,Liverpool,UK
+01-06-2004,10253,24,50.82,1971 Alpine Renault 1600s,Classic Cars,38.58,Liverpool,UK
+01-06-2004,10253,39,115.15,1956 Porsche 356A Coupe,Classic Cars,98.3,Liverpool,UK
+03-06-2004,10254,49,137.7,1917 Grand Touring Sedan,Vintage Cars,86.7,Auckland  ,New Zealand
+03-06-2004,10254,36,55.09,1911 Ford Town Car,Vintage Cars,33.3,Auckland  ,New Zealand
+03-06-2004,10254,41,102.98,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Auckland  ,New Zealand
+03-06-2004,10254,34,80.99,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Auckland  ,New Zealand
+03-06-2004,10254,30,59.87,1957 Ford Thunderbird,Classic Cars,34.21,Auckland  ,New Zealand
+03-06-2004,10254,34,66.88,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Auckland  ,New Zealand
+03-06-2004,10254,32,43.27,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Auckland  ,New Zealand
+03-06-2004,10254,38,28.88,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Auckland  ,New Zealand
+03-06-2004,10254,31,85.42,1949 Jaguar XK 120,Classic Cars,47.25,Auckland  ,New Zealand
+03-06-2004,10254,33,111.57,1952 Citroen-15CV,Classic Cars,72.82,Auckland  ,New Zealand
+03-06-2004,10254,42,69.34,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Auckland  ,New Zealand
+03-06-2004,10254,49,101.73,2002 Chevy Corvette,Classic Cars,62.11,Auckland  ,New Zealand
+03-06-2004,10254,20,39.8,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Auckland  ,New Zealand
+04-06-2004,10255,24,135,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Strasbourg,France
+04-06-2004,10255,37,37.63,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Strasbourg,France
+08-06-2004,10256,34,93.49,1937 Lincoln Berline,Vintage Cars,60.62,Kobenhavn,Denmark
+08-06-2004,10256,29,52.83,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Kobenhavn,Denmark
+14-06-2004,10257,50,92.19,1913 Ford Model T Speedster,Vintage Cars,60.78,San Jose,USA
+14-06-2004,10257,49,59.34,1934 Ford V8 Coupe,Vintage Cars,34.35,San Jose,USA
+14-06-2004,10257,37,83.78,18th Century Vintage Horse Carriage,Vintage Cars,60.74,San Jose,USA
+14-06-2004,10257,26,91.27,1917 Maxwell Touring Car,Vintage Cars,57.54,San Jose,USA
+14-06-2004,10257,46,81.81,1936 Chrysler Airflow,Vintage Cars,57.46,San Jose,USA
+15-06-2004,10258,32,177.87,1952 Alpine Renault 1300,Classic Cars,98.58,Minato-ku,Japan
+15-06-2004,10258,41,133.94,1958 Setra Bus,Trucks and Buses,77.9,Minato-ku,Japan
+15-06-2004,10258,41,113.17,1940 Ford Pickup Truck,Trucks and Buses,58.33,Minato-ku,Japan
+15-06-2004,10258,21,49.81,1939 Cadillac Limousine,Vintage Cars,23.14,Minato-ku,Japan
+15-06-2004,10258,20,62.7,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Minato-ku,Japan
+15-06-2004,10258,45,86.99,1982 Camaro Z28,Classic Cars,46.53,Minato-ku,Japan
+15-06-2004,10259,26,121.15,1962 LanciaA Delta 16V,Classic Cars,103.42,Singapore,Singapore
+15-06-2004,10259,46,117.32,1957 Chevy Pickup,Trucks and Buses,55.7,Singapore,Singapore
+15-06-2004,10259,30,134.26,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Singapore,Singapore
+15-06-2004,10259,34,120.28,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Singapore,Singapore
+15-06-2004,10259,30,59.55,1926 Ford Fire Engine,Trucks and Buses,24.92,Singapore,Singapore
+15-06-2004,10259,27,152.41,1992 Ferrari 360 Spider red,Classic Cars,77.9,Singapore,Singapore
+15-06-2004,10259,41,107.76,1940s Ford truck,Trucks and Buses,84.76,Singapore,Singapore
+15-06-2004,10259,28,46.82,1970 Dodge Coronet,Classic Cars,32.37,Singapore,Singapore
+15-06-2004,10259,47,121.4,1962 Volkswagen Microbus,Trucks and Buses,61.34,Singapore,Singapore
+15-06-2004,10259,31,31.47,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Singapore,Singapore
+15-06-2004,10259,45,95.35,1980’s GM Manhattan Express,Trucks and Buses,53.93,Singapore,Singapore
+15-06-2004,10259,40,45.99,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Singapore,Singapore
+15-06-2004,10259,29,105.33,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Singapore,Singapore
+16-06-2004,10260,46,180.79,2001 Ferrari Enzo,Classic Cars,95.59,Auckland,New Zealand
+16-06-2004,10260,30,140.5,1969 Corvair Monza,Classic Cars,89.14,Auckland,New Zealand
+16-06-2004,10260,44,169.56,1969 Ford Falcon,Classic Cars,83.05,Auckland,New Zealand
+16-06-2004,10260,32,121.57,1903 Ford Model A,Vintage Cars,68.3,Auckland,New Zealand
+16-06-2004,10260,29,92.77,Collectable Wooden Train,Trains,67.56,Auckland,New Zealand
+16-06-2004,10260,23,137.88,1970 Triumph Spitfire,Classic Cars,91.92,Auckland,New Zealand
+16-06-2004,10260,23,117.1,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Auckland,New Zealand
+16-06-2004,10260,27,55.3,1950's Chicago Surface Lines Streetcar,Trains,26.72,Auckland,New Zealand
+16-06-2004,10260,21,56.24,1962 City of Detroit Streetcar,Trains,37.49,Auckland,New Zealand
+16-06-2004,10260,33,80.55,The Mayflower,Ships,43.3,Auckland,New Zealand
+17-06-2004,10261,27,116.96,1972 Alfa Romeo GTA,Classic Cars,85.68,Montréal,Canada
+17-06-2004,10261,20,80.75,1904 Buick Runabout,Vintage Cars,52.66,Montréal,Canada
+17-06-2004,10261,36,105.69,18th century schooner,Ships,82.34,Montréal,Canada
+17-06-2004,10261,22,79.66,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Montréal,Canada
+17-06-2004,10261,34,64,The Schooner Bluenose,Ships,34,Montréal,Canada
+17-06-2004,10261,44,58.55,The USS Constitution Ship,Ships,33.97,Montréal,Canada
+17-06-2004,10261,25,89.15,The Titanic,Ships,51.09,Montréal,Canada
+17-06-2004,10261,50,88.39,The Queen Mary,Ships,53.63,Montréal,Canada
+17-06-2004,10261,29,43.68,Pont Yacht,Ships,33.3,Montréal,Canada
+24-06-2004,10262,49,157.69,1980s Black Hawk Helicopter,Planes,77.27,Madrid,Spain
+24-06-2004,10262,32,81.72,1999 Yamaha Speed Boat,Ships,51.61,Madrid,Spain
+24-06-2004,10262,34,85.75,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Madrid,Spain
+24-06-2004,10262,34,98.48,1928 British Royal Navy Airplane,Planes,66.74,Madrid,Spain
+24-06-2004,10262,24,63.71,1900s Vintage Bi-Plane,Planes,34.25,Madrid,Spain
+24-06-2004,10262,46,65.75,1937 Horch 930V Limousine,Vintage Cars,26.3,Madrid,Spain
+24-06-2004,10262,49,82.18,1940 Ford Delivery Sedan,Vintage Cars,48.64,Madrid,Spain
+24-06-2004,10262,48,58.69,Corsair F4U ( Bird Cage),Planes,29.34,Madrid,Spain
+24-06-2004,10262,40,63.97,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Madrid,Spain
+24-06-2004,10262,49,35.78,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Madrid,Spain
+24-06-2004,10262,40,87.69,American Airlines: B767-300,Planes,51.15,Madrid,Spain
+24-06-2004,10262,44,83.28,HMS Bounty,Ships,39.83,Madrid,Spain
+24-06-2004,10262,33,81.77,America West Airlines B757-200,Planes,68.8,Madrid,Spain
+24-06-2004,10262,27,64.8,F/A 18 Hornet 1/72,Planes,54.4,Madrid,Spain
+24-06-2004,10262,35,64.41,American Airlines: MD-11S,Planes,36.27,Madrid,Spain
+24-06-2004,10262,21,41.71,Boeing X-32A JSF,Planes,32.77,Madrid,Spain
+28-06-2004,10263,34,89,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Bridgewater,USA
+28-06-2004,10263,40,107.05,1996 Moto Guzzi 1100i,Motorcycles,68.99,Bridgewater,USA
+28-06-2004,10263,41,193.66,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Bridgewater,USA
+28-06-2004,10263,48,123.51,2002 Suzuki XREO,Motorcycles,66.27,Bridgewater,USA
+28-06-2004,10263,33,67.58,P-51-D Mustang,Planes,49,Bridgewater,USA
+28-06-2004,10263,34,50.27,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Bridgewater,USA
+28-06-2004,10263,42,109.32,1997 BMW R 1100 S,Motorcycles,60.86,Bridgewater,USA
+28-06-2004,10263,37,67.03,1960 BSA Gold Star DBD34,Motorcycles,37.32,Bridgewater,USA
+28-06-2004,10263,24,59.41,1900s Vintage Tri-Plane,Planes,36.23,Bridgewater,USA
+28-06-2004,10263,31,93.9,1997 BMW F650 ST,Motorcycles,66.92,Bridgewater,USA
+28-06-2004,10263,47,117.46,ATA: B757-300,Planes,59.33,Bridgewater,USA
+30-06-2004,10264,48,58.44,1957 Vespa GS150,Motorcycles,32.95,Boston,USA
+30-06-2004,10264,20,124.99,1957 Corvette Convertible,Classic Cars,69.93,Boston,USA
+30-06-2004,10264,37,61.64,1982 Ducati 900 Monster,Motorcycles,47.1,Boston,USA
+30-06-2004,10264,47,75.18,1961 Chevrolet Impala,Classic Cars,32.33,Boston,USA
+30-06-2004,10264,20,39.02,1982 Ducati 996 R,Motorcycles,24.14,Boston,USA
+30-06-2004,10264,34,100.01,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Boston,USA
+30-06-2004,10264,47,67.53,2002 Yamaha YZR M1,Motorcycles,34.17,Boston,USA
+02-07-2004,10265,45,74.78,1969 Dodge Super Bee,Classic Cars,49.05,Glen Waverly,Australia
+02-07-2004,10265,49,123.47,1976 Ford Gran Torino,Classic Cars,73.49,Glen Waverly,Australia
+06-07-2004,10266,44,188.73,1968 Ford Mustang,Classic Cars,95.34,Reggio Emilia,Italy
+06-07-2004,10266,22,110.39,1968 Dodge Charger,Classic Cars,75.16,Reggio Emilia,Italy
+06-07-2004,10266,35,67.83,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Reggio Emilia,Italy
+06-07-2004,10266,40,112.86,1969 Dodge Charger,Classic Cars,58.73,Reggio Emilia,Italy
+06-07-2004,10266,21,131.63,1993 Mazda RX-7,Classic Cars,83.51,Reggio Emilia,Italy
+06-07-2004,10266,36,99.55,1965 Aston Martin DB5,Classic Cars,65.96,Reggio Emilia,Italy
+06-07-2004,10266,33,77,1948 Porsche 356-A Roadster,Classic Cars,53.9,Reggio Emilia,Italy
+06-07-2004,10266,49,139.41,1995 Honda Civic,Classic Cars,93.89,Reggio Emilia,Italy
+06-07-2004,10266,20,113.52,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Reggio Emilia,Italy
+06-07-2004,10266,29,137.17,1992 Ferrari 360 Spider red,Classic Cars,77.9,Reggio Emilia,Italy
+06-07-2004,10266,33,127.15,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Reggio Emilia,Italy
+06-07-2004,10266,28,40.25,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Reggio Emilia,Italy
+06-07-2004,10266,34,35.12,1982 Lamborghini Diablo,Classic Cars,16.24,Reggio Emilia,Italy
+06-07-2004,10266,47,56.33,1971 Alpine Renault 1600s,Classic Cars,38.58,Reggio Emilia,Italy
+06-07-2004,10266,24,119.37,1956 Porsche 356A Coupe,Classic Cars,98.3,Reggio Emilia,Italy
+07-07-2004,10267,36,71.27,1957 Ford Thunderbird,Classic Cars,34.21,NYC,USA
+07-07-2004,10267,40,72.02,1970 Chevy Chevelle SS 454,Classic Cars,49.24,NYC,USA
+07-07-2004,10267,38,76.33,1949 Jaguar XK 120,Classic Cars,47.25,NYC,USA
+07-07-2004,10267,43,93.95,1952 Citroen-15CV,Classic Cars,72.82,NYC,USA
+07-07-2004,10267,44,83.9,1969 Chevrolet Camaro Z28,Classic Cars,50.51,NYC,USA
+07-07-2004,10267,43,98.51,2002 Chevy Corvette,Classic Cars,62.11,NYC,USA
+12-07-2004,10268,49,93.49,1937 Lincoln Berline,Vintage Cars,60.62,Wellington,New Zealand
+12-07-2004,10268,26,45.82,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Wellington,New Zealand
+12-07-2004,10268,34,164.9,1917 Grand Touring Sedan,Vintage Cars,86.7,Wellington,New Zealand
+12-07-2004,10268,31,60.54,1911 Ford Town Car,Vintage Cars,33.3,Wellington,New Zealand
+12-07-2004,10268,50,124.59,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Wellington,New Zealand
+12-07-2004,10268,35,148.5,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Wellington,New Zealand
+12-07-2004,10268,39,96.23,1917 Maxwell Touring Car,Vintage Cars,57.54,Wellington,New Zealand
+12-07-2004,10268,35,84.67,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Wellington,New Zealand
+12-07-2004,10268,33,31.86,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Wellington,New Zealand
+12-07-2004,10268,40,36.29,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Wellington,New Zealand
+12-07-2004,10268,30,37.75,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Wellington,New Zealand
+16-07-2004,10269,32,57.46,1934 Ford V8 Coupe,Vintage Cars,34.35,Salzburg,Austria
+16-07-2004,10269,48,95.44,1936 Chrysler Airflow,Vintage Cars,57.46,Salzburg,Austria
+19-07-2004,10270,21,171.44,1952 Alpine Renault 1300,Classic Cars,98.58,Chatswood,Australia
+19-07-2004,10270,32,124.1,1962 LanciaA Delta 16V,Classic Cars,103.42,Chatswood,Australia
+19-07-2004,10270,28,135.3,1958 Setra Bus,Trucks and Buses,77.9,Chatswood,Australia
+19-07-2004,10270,43,94.5,1940 Ford Pickup Truck,Trucks and Buses,58.33,Chatswood,Australia
+19-07-2004,10270,31,81.05,1913 Ford Model T Speedster,Vintage Cars,60.78,Chatswood,Australia
+19-07-2004,10270,38,85.87,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Chatswood,Australia
+19-07-2004,10270,38,107.76,1940s Ford truck,Trucks and Buses,84.76,Chatswood,Australia
+19-07-2004,10270,44,40.25,1939 Cadillac Limousine,Vintage Cars,23.14,Chatswood,Australia
+19-07-2004,10270,32,93.42,1980’s GM Manhattan Express,Trucks and Buses,53.93,Chatswood,Australia
+19-07-2004,10270,21,52.36,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Chatswood,Australia
+19-07-2004,10270,46,101.15,1982 Camaro Z28,Classic Cars,46.53,Chatswood,Australia
+20-07-2004,10271,31,99.54,1957 Chevy Pickup,Trucks and Buses,55.7,San Rafael,USA
+20-07-2004,10271,50,147.36,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,San Rafael,USA
+20-07-2004,10271,50,121.5,1964 Mercedes Tour Bus,Trucks and Buses,74.86,San Rafael,USA
+20-07-2004,10271,25,59.55,1926 Ford Fire Engine,Trucks and Buses,24.92,San Rafael,USA
+20-07-2004,10271,20,169.34,1992 Ferrari 360 Spider red,Classic Cars,77.9,San Rafael,USA
+20-07-2004,10271,45,49.71,1970 Dodge Coronet,Classic Cars,32.37,San Rafael,USA
+20-07-2004,10271,43,122.68,1962 Volkswagen Microbus,Trucks and Buses,61.34,San Rafael,USA
+20-07-2004,10271,38,28.64,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,San Rafael,USA
+20-07-2004,10271,22,110,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,San Rafael,USA
+20-07-2004,10271,35,51.95,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,San Rafael,USA
+20-07-2004,10271,34,93.76,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,San Rafael,USA
+20-07-2004,10272,35,187.02,2001 Ferrari Enzo,Classic Cars,95.59,Allentown,USA
+20-07-2004,10272,27,123.89,1969 Corvair Monza,Classic Cars,89.14,Allentown,USA
+20-07-2004,10272,39,148.8,1969 Ford Falcon,Classic Cars,83.05,Allentown,USA
+20-07-2004,10272,25,126.39,1970 Triumph Spitfire,Classic Cars,91.92,Allentown,USA
+20-07-2004,10272,45,56.55,1950's Chicago Surface Lines Streetcar,Trains,26.72,Allentown,USA
+20-07-2004,10272,43,53.89,1962 City of Detroit Streetcar,Trains,37.49,Allentown,USA
+21-07-2004,10273,30,136,1972 Alfa Romeo GTA,Classic Cars,85.68,Bruxelles,Belgium
+21-07-2004,10273,34,84.3,1999 Yamaha Speed Boat,Ships,51.61,Bruxelles,Belgium
+21-07-2004,10273,40,117.47,1903 Ford Model A,Vintage Cars,68.3,Bruxelles,Belgium
+21-07-2004,10273,47,87.73,Collectable Wooden Train,Trains,67.56,Bruxelles,Belgium
+21-07-2004,10273,50,105.87,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Bruxelles,Belgium
+21-07-2004,10273,33,72.85,1904 Buick Runabout,Vintage Cars,52.66,Bruxelles,Belgium
+21-07-2004,10273,22,103.23,18th century schooner,Ships,82.34,Bruxelles,Belgium
+21-07-2004,10273,27,84.08,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Bruxelles,Belgium
+21-07-2004,10273,48,83.86,1940 Ford Delivery Sedan,Vintage Cars,48.64,Bruxelles,Belgium
+21-07-2004,10273,21,66,The Schooner Bluenose,Ships,34,Bruxelles,Belgium
+21-07-2004,10273,21,77.95,The Mayflower,Ships,43.3,Bruxelles,Belgium
+21-07-2004,10273,42,57.82,The USS Constitution Ship,Ships,33.97,Bruxelles,Belgium
+21-07-2004,10273,40,91.15,The Titanic,Ships,51.09,Bruxelles,Belgium
+21-07-2004,10273,26,89.38,The Queen Mary,Ships,53.63,Bruxelles,Belgium
+21-07-2004,10273,37,51.32,Pont Yacht,Ships,33.3,Bruxelles,Belgium
+21-07-2004,10274,41,129.31,1980s Black Hawk Helicopter,Planes,77.27,Brickhaven,USA
+21-07-2004,10274,40,56.86,1900s Vintage Bi-Plane,Planes,34.25,Brickhaven,USA
+21-07-2004,10274,24,65.09,1937 Horch 930V Limousine,Vintage Cars,26.3,Brickhaven,USA
+21-07-2004,10274,24,75.13,HMS Bounty,Ships,39.83,Brickhaven,USA
+21-07-2004,10274,32,49.66,Boeing X-32A JSF,Planes,32.77,Brickhaven,USA
+23-07-2004,10275,45,81.35,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Nantes,France
+23-07-2004,10275,22,115.37,1996 Moto Guzzi 1100i,Motorcycles,68.99,Nantes,France
+23-07-2004,10275,36,154.93,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Nantes,France
+23-07-2004,10275,35,70.12,P-51-D Mustang,Planes,49,Nantes,France
+23-07-2004,10275,37,52.09,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Nantes,France
+23-07-2004,10275,21,105.94,1997 BMW R 1100 S,Motorcycles,60.86,Nantes,France
+23-07-2004,10275,25,97.38,1928 British Royal Navy Airplane,Planes,66.74,Nantes,France
+23-07-2004,10275,30,61.7,1960 BSA Gold Star DBD34,Motorcycles,37.32,Nantes,France
+23-07-2004,10275,41,58,Corsair F4U ( Bird Cage),Planes,29.34,Nantes,France
+23-07-2004,10275,27,67.38,1900s Vintage Tri-Plane,Planes,36.23,Nantes,France
+23-07-2004,10275,23,89.9,1997 BMW F650 ST,Motorcycles,66.92,Nantes,France
+23-07-2004,10275,28,58.47,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Nantes,France
+23-07-2004,10275,38,40.15,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Nantes,France
+23-07-2004,10275,32,85.86,American Airlines: B767-300,Planes,51.15,Nantes,France
+23-07-2004,10275,39,82.77,America West Airlines B757-200,Planes,68.8,Nantes,France
+23-07-2004,10275,48,102.04,ATA: B757-300,Planes,59.33,Nantes,France
+23-07-2004,10275,43,72,F/A 18 Hornet 1/72,Planes,54.4,Nantes,France
+23-07-2004,10275,31,59.96,American Airlines: MD-11S,Planes,36.27,Nantes,France
+02-08-2004,10276,50,184.84,1968 Ford Mustang,Classic Cars,95.34,Brickhaven,USA
+02-08-2004,10276,43,150.62,2002 Suzuki XREO,Motorcycles,66.27,Brickhaven,USA
+02-08-2004,10276,47,104.52,1968 Dodge Charger,Classic Cars,75.16,Brickhaven,USA
+02-08-2004,10276,38,67.83,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Brickhaven,USA
+02-08-2004,10276,38,78,1969 Dodge Super Bee,Classic Cars,49.05,Brickhaven,USA
+02-08-2004,10276,30,139.64,1976 Ford Gran Torino,Classic Cars,73.49,Brickhaven,USA
+02-08-2004,10276,33,54.71,1957 Vespa GS150,Motorcycles,32.95,Brickhaven,USA
+02-08-2004,10276,48,120.53,1957 Corvette Convertible,Classic Cars,69.93,Brickhaven,USA
+02-08-2004,10276,46,61.64,1982 Ducati 900 Monster,Motorcycles,47.1,Brickhaven,USA
+02-08-2004,10276,20,58.17,1971 Alpine Renault 1600s,Classic Cars,38.58,Brickhaven,USA
+02-08-2004,10276,48,67.1,1961 Chevrolet Impala,Classic Cars,32.33,Brickhaven,USA
+02-08-2004,10276,27,35.4,1982 Ducati 996 R,Motorcycles,24.14,Brickhaven,USA
+02-08-2004,10276,38,94.91,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Brickhaven,USA
+02-08-2004,10276,21,67.53,2002 Yamaha YZR M1,Motorcycles,34.17,Brickhaven,USA
+04-08-2004,10277,28,93.28,1969 Dodge Charger,Classic Cars,58.73,Singapore,Singapore
+06-08-2004,10278,34,114.65,1993 Mazda RX-7,Classic Cars,83.51,Las Vegas,USA
+06-08-2004,10278,23,107.02,1965 Aston Martin DB5,Classic Cars,65.96,Las Vegas,USA
+06-08-2004,10278,29,73.15,1948 Porsche 356-A Roadster,Classic Cars,53.9,Las Vegas,USA
+06-08-2004,10278,29,118.07,1995 Honda Civic,Classic Cars,93.89,Las Vegas,USA
+06-08-2004,10278,39,117.48,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Las Vegas,USA
+06-08-2004,10278,42,167.65,1992 Ferrari 360 Spider red,Classic Cars,77.9,Las Vegas,USA
+06-08-2004,10278,31,114.44,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Las Vegas,USA
+06-08-2004,10278,35,48.8,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Las Vegas,USA
+06-08-2004,10278,31,37.38,1982 Lamborghini Diablo,Classic Cars,16.24,Las Vegas,USA
+06-08-2004,10278,25,136.22,1956 Porsche 356A Coupe,Classic Cars,98.3,Las Vegas,USA
+09-08-2004,10279,26,68.42,1957 Ford Thunderbird,Classic Cars,34.21,Madrid,Spain
+09-08-2004,10279,32,68.35,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Madrid,Spain
+09-08-2004,10279,49,76.33,1949 Jaguar XK 120,Classic Cars,47.25,Madrid,Spain
+09-08-2004,10279,48,106.87,1952 Citroen-15CV,Classic Cars,72.82,Madrid,Spain
+09-08-2004,10279,33,78.76,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Madrid,Spain
+09-08-2004,10279,48,95.3,2002 Chevy Corvette,Classic Cars,62.11,Madrid,Spain
+17-08-2004,10280,34,205.73,1952 Alpine Renault 1300,Classic Cars,98.58,Torino,Italy
+17-08-2004,10280,24,98,1940 Ford Pickup Truck,Trucks and Buses,58.33,Torino,Italy
+17-08-2004,10280,50,87.33,1937 Lincoln Berline,Vintage Cars,60.62,Torino,Italy
+17-08-2004,10280,27,47.44,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Torino,Italy
+17-08-2004,10280,26,161.5,1917 Grand Touring Sedan,Vintage Cars,86.7,Torino,Italy
+17-08-2004,10280,25,53.28,1911 Ford Town Car,Vintage Cars,33.3,Torino,Italy
+17-08-2004,10280,37,109.33,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Torino,Italy
+17-08-2004,10280,22,158.63,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Torino,Italy
+17-08-2004,10280,46,82.06,1913 Ford Model T Speedster,Vintage Cars,60.78,Torino,Italy
+17-08-2004,10280,43,54.34,1934 Ford V8 Coupe,Vintage Cars,34.35,Torino,Italy
+17-08-2004,10280,29,102.63,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Torino,Italy
+17-08-2004,10280,34,99.21,1917 Maxwell Touring Car,Vintage Cars,57.54,Torino,Italy
+17-08-2004,10280,35,77.31,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Torino,Italy
+17-08-2004,10280,20,29.87,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Torino,Italy
+17-08-2004,10280,45,36.29,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Torino,Italy
+17-08-2004,10280,33,35.29,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Torino,Italy
+17-08-2004,10280,21,79.86,1936 Chrysler Airflow,Vintage Cars,57.46,Torino,Italy
+19-08-2004,10281,44,132.97,1962 LanciaA Delta 16V,Classic Cars,103.42,Allentown,USA
+19-08-2004,10281,25,127.1,1958 Setra Bus,Trucks and Buses,77.9,Allentown,USA
+19-08-2004,10281,41,98.36,1957 Chevy Pickup,Trucks and Buses,55.7,Allentown,USA
+19-08-2004,10281,48,114.14,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Allentown,USA
+19-08-2004,10281,29,56.52,1926 Ford Fire Engine,Trucks and Buses,24.92,Allentown,USA
+19-08-2004,10281,25,135.47,1992 Ferrari 360 Spider red,Classic Cars,77.9,Allentown,USA
+19-08-2004,10281,25,96.86,1940s Ford truck,Trucks and Buses,84.76,Allentown,USA
+19-08-2004,10281,44,42.76,1939 Cadillac Limousine,Vintage Cars,23.14,Allentown,USA
+19-08-2004,10281,25,112.46,1962 Volkswagen Microbus,Trucks and Buses,61.34,Allentown,USA
+19-08-2004,10281,20,33.95,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Allentown,USA
+19-08-2004,10281,29,80.9,1980’s GM Manhattan Express,Trucks and Buses,53.93,Allentown,USA
+19-08-2004,10281,31,44.91,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Allentown,USA
+19-08-2004,10281,36,59.47,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Allentown,USA
+19-08-2004,10281,27,89.01,1982 Camaro Z28,Classic Cars,46.53,Allentown,USA
+20-08-2004,10282,41,176.63,2001 Ferrari Enzo,Classic Cars,95.59,San Rafael,USA
+20-08-2004,10282,27,142.02,1969 Corvair Monza,Classic Cars,89.14,San Rafael,USA
+20-08-2004,10282,24,169.56,1969 Ford Falcon,Classic Cars,83.05,San Rafael,USA
+20-08-2004,10282,23,147.36,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,San Rafael,USA
+20-08-2004,10282,43,122.93,1903 Ford Model A,Vintage Cars,68.3,San Rafael,USA
+20-08-2004,10282,36,88.74,Collectable Wooden Train,Trains,67.56,San Rafael,USA
+20-08-2004,10282,31,132.13,1970 Triumph Spitfire,Classic Cars,91.92,San Rafael,USA
+20-08-2004,10282,29,49.71,1970 Dodge Coronet,Classic Cars,32.37,San Rafael,USA
+20-08-2004,10282,39,96.99,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,San Rafael,USA
+20-08-2004,10282,36,51.58,1950's Chicago Surface Lines Streetcar,Trains,26.72,San Rafael,USA
+20-08-2004,10282,38,114.59,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,San Rafael,USA
+20-08-2004,10282,37,56.24,1962 City of Detroit Streetcar,Trains,37.49,San Rafael,USA
+20-08-2004,10282,43,77.95,The Mayflower,Ships,43.3,San Rafael,USA
+20-08-2004,10283,25,130.56,1972 Alfa Romeo GTA,Classic Cars,85.68,Tsawassen,Canada
+20-08-2004,10283,21,78.28,1999 Yamaha Speed Boat,Ships,51.61,Tsawassen,Canada
+20-08-2004,10283,46,100.58,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Tsawassen,Canada
+20-08-2004,10283,34,71.97,1904 Buick Runabout,Vintage Cars,52.66,Tsawassen,Canada
+20-08-2004,10283,42,99.54,18th century schooner,Ships,82.34,Tsawassen,Canada
+20-08-2004,10283,34,80.54,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Tsawassen,Canada
+20-08-2004,10283,33,77.15,1940 Ford Delivery Sedan,Vintage Cars,48.64,Tsawassen,Canada
+20-08-2004,10283,45,62,The Schooner Bluenose,Ships,34,Tsawassen,Canada
+20-08-2004,10283,20,74.23,HMS Bounty,Ships,39.83,Tsawassen,Canada
+20-08-2004,10283,47,68.67,The USS Constitution Ship,Ships,33.97,Tsawassen,Canada
+20-08-2004,10283,22,88.15,The Titanic,Ships,51.09,Tsawassen,Canada
+20-08-2004,10283,38,85.41,The Queen Mary,Ships,53.63,Tsawassen,Canada
+20-08-2004,10283,43,41.22,Boeing X-32A JSF,Planes,32.77,Tsawassen,Canada
+20-08-2004,10283,33,49.14,Pont Yacht,Ships,33.3,Tsawassen,Canada
+21-08-2004,10284,45,137.19,1980s Black Hawk Helicopter,Planes,77.27,Oslo,Norway  
+21-08-2004,10284,31,68.43,P-51-D Mustang,Planes,49,Oslo,Norway  
+21-08-2004,10284,22,101.76,1928 British Royal Navy Airplane,Planes,66.74,Oslo,Norway  
+21-08-2004,10284,30,65.08,1900s Vintage Bi-Plane,Planes,34.25,Oslo,Norway  
+21-08-2004,10284,39,59.83,1937 Horch 930V Limousine,Vintage Cars,26.3,Oslo,Norway  
+21-08-2004,10284,21,65.51,Corsair F4U ( Bird Cage),Planes,29.34,Oslo,Norway  
+21-08-2004,10284,21,66.65,1900s Vintage Tri-Plane,Planes,36.23,Oslo,Norway  
+21-08-2004,10284,50,60.54,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Oslo,Norway  
+21-08-2004,10284,33,35.78,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Oslo,Norway  
+21-08-2004,10284,24,87.69,American Airlines: B767-300,Planes,51.15,Oslo,Norway  
+21-08-2004,10284,45,95.73,America West Airlines B757-200,Planes,68.8,Oslo,Norway  
+21-08-2004,10284,25,68,F/A 18 Hornet 1/72,Planes,54.4,Oslo,Norway  
+21-08-2004,10284,32,73.29,American Airlines: MD-11S,Planes,36.27,Oslo,Norway  
+27-08-2004,10285,36,95.7,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Cambridge,USA
+27-08-2004,10285,47,110.61,1996 Moto Guzzi 1100i,Motorcycles,68.99,Cambridge,USA
+27-08-2004,10285,27,166.55,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Cambridge,USA
+27-08-2004,10285,49,131.04,2002 Suzuki XREO,Motorcycles,66.27,Cambridge,USA
+27-08-2004,10285,20,50.88,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Cambridge,USA
+27-08-2004,10285,34,91.29,1997 BMW R 1100 S,Motorcycles,60.86,Cambridge,USA
+27-08-2004,10285,39,61.7,1960 BSA Gold Star DBD34,Motorcycles,37.32,Cambridge,USA
+27-08-2004,10285,38,64.41,1982 Ducati 900 Monster,Motorcycles,47.1,Cambridge,USA
+27-08-2004,10285,37,82.91,1997 BMW F650 ST,Motorcycles,66.92,Cambridge,USA
+27-08-2004,10285,37,36.61,1982 Ducati 996 R,Motorcycles,24.14,Cambridge,USA
+27-08-2004,10285,26,100.01,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Cambridge,USA
+27-08-2004,10285,39,76.48,2002 Yamaha YZR M1,Motorcycles,34.17,Cambridge,USA
+27-08-2004,10285,45,102.04,ATA: B757-300,Planes,59.33,Cambridge,USA
+28-08-2004,10286,38,51.6,1957 Vespa GS150,Motorcycles,32.95,Paris,France
+30-08-2004,10287,21,190.68,1968 Ford Mustang,Classic Cars,95.34,Genève,Switzerland
+30-08-2004,10287,45,117.44,1968 Dodge Charger,Classic Cars,75.16,Genève,Switzerland
+30-08-2004,10287,41,74.21,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Genève,Switzerland
+30-08-2004,10287,23,107.1,1969 Dodge Charger,Classic Cars,58.73,Genève,Switzerland
+30-08-2004,10287,41,113.23,1993 Mazda RX-7,Classic Cars,83.51,Genève,Switzerland
+30-08-2004,10287,44,61.6,1948 Porsche 356-A Roadster,Classic Cars,53.9,Genève,Switzerland
+30-08-2004,10287,24,123.76,1995 Honda Civic,Classic Cars,93.89,Genève,Switzerland
+30-08-2004,10287,44,114.84,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Genève,Switzerland
+30-08-2004,10287,36,137.17,1992 Ferrari 360 Spider red,Classic Cars,77.9,Genève,Switzerland
+30-08-2004,10287,43,68.35,1969 Dodge Super Bee,Classic Cars,49.05,Genève,Switzerland
+30-08-2004,10287,40,127.88,1976 Ford Gran Torino,Classic Cars,73.49,Genève,Switzerland
+30-08-2004,10287,27,139.87,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Genève,Switzerland
+30-08-2004,10287,34,119.04,1957 Corvette Convertible,Classic Cars,69.93,Genève,Switzerland
+30-08-2004,10287,36,31.34,1982 Lamborghini Diablo,Classic Cars,16.24,Genève,Switzerland
+30-08-2004,10287,20,58.17,1971 Alpine Renault 1600s,Classic Cars,38.58,Genève,Switzerland
+30-08-2004,10287,36,137.62,1956 Porsche 356A Coupe,Classic Cars,98.3,Genève,Switzerland
+30-08-2004,10287,40,79.22,1961 Chevrolet Impala,Classic Cars,32.33,Genève,Switzerland
+01-09-2004,10288,20,120.71,1965 Aston Martin DB5,Classic Cars,65.96,Singapore,Singapore
+01-09-2004,10288,32,168.3,1917 Grand Touring Sedan,Vintage Cars,86.7,Singapore,Singapore
+01-09-2004,10288,28,50.25,1911 Ford Town Car,Vintage Cars,33.3,Singapore,Singapore
+01-09-2004,10288,31,102.98,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Singapore,Singapore
+01-09-2004,10288,35,90.19,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Singapore,Singapore
+01-09-2004,10288,23,57.02,1957 Ford Thunderbird,Classic Cars,34.21,Singapore,Singapore
+01-09-2004,10288,36,66.88,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Singapore,Singapore
+01-09-2004,10288,50,49.3,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Singapore,Singapore
+01-09-2004,10288,29,32.19,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Singapore,Singapore
+01-09-2004,10288,35,81.78,1949 Jaguar XK 120,Classic Cars,47.25,Singapore,Singapore
+01-09-2004,10288,48,109.22,1952 Citroen-15CV,Classic Cars,72.82,Singapore,Singapore
+01-09-2004,10288,34,76.19,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Singapore,Singapore
+01-09-2004,10288,41,101.73,2002 Chevy Corvette,Classic Cars,62.11,Singapore,Singapore
+01-09-2004,10288,33,37.75,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Singapore,Singapore
+03-09-2004,10289,38,92.47,1937 Lincoln Berline,Vintage Cars,60.62,Bergen,Norway  
+03-09-2004,10289,24,44.75,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Bergen,Norway  
+03-09-2004,10289,43,141.75,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Bergen,Norway  
+03-09-2004,10289,45,41.22,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Bergen,Norway  
+07-09-2004,10290,26,80.36,1917 Maxwell Touring Car,Vintage Cars,57.54,Brickhaven,USA
+07-09-2004,10290,45,83.76,1936 Chrysler Airflow,Vintage Cars,57.46,Brickhaven,USA
+08-09-2004,10291,37,210.01,1952 Alpine Renault 1300,Classic Cars,98.58,Bräcke,Sweden
+08-09-2004,10291,30,141.83,1962 LanciaA Delta 16V,Classic Cars,103.42,Bräcke,Sweden
+08-09-2004,10291,41,123,1958 Setra Bus,Trucks and Buses,77.9,Bräcke,Sweden
+08-09-2004,10291,41,96.84,1940 Ford Pickup Truck,Trucks and Buses,58.33,Bräcke,Sweden
+08-09-2004,10291,26,52.26,1926 Ford Fire Engine,Trucks and Buses,24.92,Bräcke,Sweden
+08-09-2004,10291,47,99.28,1913 Ford Model T Speedster,Vintage Cars,60.78,Bräcke,Sweden
+08-09-2004,10291,37,56.21,1934 Ford V8 Coupe,Vintage Cars,34.35,Bräcke,Sweden
+08-09-2004,10291,23,93.2,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Bräcke,Sweden
+08-09-2004,10291,48,96.86,1940s Ford truck,Trucks and Buses,84.76,Bräcke,Sweden
+08-09-2004,10291,29,45.28,1939 Cadillac Limousine,Vintage Cars,23.14,Bräcke,Sweden
+08-09-2004,10291,48,109.9,1962 Volkswagen Microbus,Trucks and Buses,61.34,Bräcke,Sweden
+08-09-2004,10291,26,82.83,1980’s GM Manhattan Express,Trucks and Buses,53.93,Bräcke,Sweden
+08-09-2004,10291,32,53,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Bräcke,Sweden
+08-09-2004,10291,28,86.99,1982 Camaro Z28,Classic Cars,46.53,Bräcke,Sweden
+08-09-2004,10292,21,94.8,1957 Chevy Pickup,Trucks and Buses,55.7,NYC,USA
+08-09-2004,10292,26,140.81,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,NYC,USA
+08-09-2004,10292,41,103.09,1964 Mercedes Tour Bus,Trucks and Buses,74.86,NYC,USA
+08-09-2004,10292,21,147.33,1992 Ferrari 360 Spider red,Classic Cars,77.9,NYC,USA
+08-09-2004,10292,44,114.9,1970 Triumph Spitfire,Classic Cars,91.92,NYC,USA
+08-09-2004,10292,40,48.55,1970 Dodge Coronet,Classic Cars,32.37,NYC,USA
+08-09-2004,10292,39,34.3,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,NYC,USA
+08-09-2004,10292,27,113.55,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,NYC,USA
+08-09-2004,10292,50,54.11,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,NYC,USA
+08-09-2004,10292,31,59.65,1950's Chicago Surface Lines Streetcar,Trains,26.72,NYC,USA
+08-09-2004,10292,41,113.44,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,NYC,USA
+08-09-2004,10292,35,49.79,1962 City of Detroit Streetcar,Trains,37.49,NYC,USA
+09-09-2004,10293,46,187.02,2001 Ferrari Enzo,Classic Cars,95.59,Torino,Italy
+09-09-2004,10293,24,129.93,1969 Corvair Monza,Classic Cars,89.14,Torino,Italy
+09-09-2004,10293,45,171.29,1969 Ford Falcon,Classic Cars,83.05,Torino,Italy
+09-09-2004,10293,24,110.64,1903 Ford Model A,Vintage Cars,68.3,Torino,Italy
+09-09-2004,10293,22,91.76,Collectable Wooden Train,Trains,67.56,Torino,Italy
+09-09-2004,10293,49,72.85,1904 Buick Runabout,Vintage Cars,52.66,Torino,Italy
+09-09-2004,10293,21,111.83,18th century schooner,Ships,82.34,Torino,Italy
+09-09-2004,10293,29,77.95,The Mayflower,Ships,43.3,Torino,Italy
+09-09-2004,10293,32,51.32,Pont Yacht,Ships,33.3,Torino,Italy
+10-09-2004,10294,45,98.32,The Queen Mary,Ships,53.63,Brickhaven,USA
+10-09-2004,10295,24,136,1972 Alfa Romeo GTA,Classic Cars,85.68,Boston,USA
+10-09-2004,10295,46,84.08,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Boston,USA
+10-09-2004,10295,26,62,The Schooner Bluenose,Ships,34,Boston,USA
+10-09-2004,10295,44,71.56,The USS Constitution Ship,Ships,33.97,Boston,USA
+10-09-2004,10295,34,93.16,The Titanic,Ships,51.09,Boston,USA
+15-09-2004,10296,36,146.65,1980s Black Hawk Helicopter,Planes,77.27,Munich,Germany
+15-09-2004,10296,21,69.68,1999 Yamaha Speed Boat,Ships,51.61,Munich,Germany
+15-09-2004,10296,22,105.87,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Munich,Germany
+15-09-2004,10296,21,60.97,1900s Vintage Bi-Plane,Planes,34.25,Munich,Germany
+15-09-2004,10296,31,63.78,1937 Horch 930V Limousine,Vintage Cars,26.3,Munich,Germany
+15-09-2004,10296,22,83.02,1940 Ford Delivery Sedan,Vintage Cars,48.64,Munich,Germany
+15-09-2004,10296,32,63.46,Corsair F4U ( Bird Cage),Planes,29.34,Munich,Germany
+15-09-2004,10296,26,41.02,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Munich,Germany
+15-09-2004,10296,42,75.81,American Airlines: B767-300,Planes,51.15,Munich,Germany
+15-09-2004,10296,34,89.61,HMS Bounty,Ships,39.83,Munich,Germany
+15-09-2004,10296,24,96.73,America West Airlines B757-200,Planes,68.8,Munich,Germany
+15-09-2004,10296,22,74.4,F/A 18 Hornet 1/72,Planes,54.4,Munich,Germany
+15-09-2004,10296,47,61.44,American Airlines: MD-11S,Planes,36.27,Munich,Germany
+15-09-2004,10296,21,46.68,Boeing X-32A JSF,Planes,32.77,Munich,Germany
+16-09-2004,10297,25,81.95,P-51-D Mustang,Planes,49,Dublin,Ireland
+16-09-2004,10297,32,107.23,1928 British Royal Navy Airplane,Planes,66.74,Dublin,Ireland
+16-09-2004,10297,32,70.08,1960 BSA Gold Star DBD34,Motorcycles,37.32,Dublin,Ireland
+16-09-2004,10297,23,71.73,1900s Vintage Tri-Plane,Planes,36.23,Dublin,Ireland
+16-09-2004,10297,26,88.9,1997 BMW F650 ST,Motorcycles,66.92,Dublin,Ireland
+16-09-2004,10297,28,63.29,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Dublin,Ireland
+16-09-2004,10297,35,111.53,ATA: B757-300,Planes,59.33,Dublin,Ireland
+27-09-2004,10298,39,105.86,1996 Moto Guzzi 1100i,Motorcycles,68.99,Nantes,France
+27-09-2004,10298,32,60.57,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,Nantes,France
+30-09-2004,10299,23,76.56,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Helsinki,Finland
+30-09-2004,10299,29,164.61,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,Helsinki,Finland
+30-09-2004,10299,24,123.51,2002 Suzuki XREO,Motorcycles,66.27,Helsinki,Finland
+30-09-2004,10299,39,62.17,1957 Vespa GS150,Motorcycles,32.95,Helsinki,Finland
+30-09-2004,10299,49,119.04,1957 Corvette Convertible,Classic Cars,69.93,Helsinki,Finland
+30-09-2004,10299,47,107.07,1997 BMW R 1100 S,Motorcycles,60.86,Helsinki,Finland
+30-09-2004,10299,33,58.87,1982 Ducati 900 Monster,Motorcycles,47.1,Helsinki,Finland
+30-09-2004,10299,32,66.29,1961 Chevrolet Impala,Classic Cars,32.33,Helsinki,Finland
+30-09-2004,10299,24,36.21,1982 Ducati 996 R,Motorcycles,24.14,Helsinki,Finland
+30-09-2004,10299,38,84.7,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Helsinki,Finland
+30-09-2004,10299,44,77.29,2002 Yamaha YZR M1,Motorcycles,34.17,Helsinki,Finland
+06-10-2004,10303,46,56.91,1911 Ford Town Car,Vintage Cars,33.3,Sevilla,Spain
+06-10-2004,10303,24,35.7,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,Sevilla,Spain
+11-10-2004,10304,47,201.44,1952 Alpine Renault 1300,Classic Cars,98.58,Versailles,France
+11-10-2004,10304,39,117.54,1958 Setra Bus,Trucks and Buses,77.9,Versailles,France
+11-10-2004,10304,46,106.17,1940 Ford Pickup Truck,Trucks and Buses,58.33,Versailles,France
+11-10-2004,10304,37,95.55,1937 Lincoln Berline,Vintage Cars,60.62,Versailles,France
+11-10-2004,10304,37,46.9,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,Versailles,France
+11-10-2004,10304,24,102.98,1932 Model A Ford J-Coupe,Vintage Cars,58.48,Versailles,France
+11-10-2004,10304,20,141.75,1928 Mercedes-Benz SSK,Vintage Cars,72.56,Versailles,France
+11-10-2004,10304,46,98.27,1913 Ford Model T Speedster,Vintage Cars,60.78,Versailles,France
+11-10-2004,10304,24,54.34,1934 Ford V8 Coupe,Vintage Cars,34.35,Versailles,France
+11-10-2004,10304,26,90.06,18th Century Vintage Horse Carriage,Vintage Cars,60.74,Versailles,France
+11-10-2004,10304,38,95.24,1917 Maxwell Touring Car,Vintage Cars,57.54,Versailles,France
+11-10-2004,10304,34,44.27,1939 Cadillac Limousine,Vintage Cars,23.14,Versailles,France
+11-10-2004,10304,23,29.21,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,Versailles,France
+11-10-2004,10304,44,42.11,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,Versailles,France
+11-10-2004,10304,33,80.83,1936 Chrysler Airflow,Vintage Cars,57.46,Versailles,France
+11-10-2004,10304,36,52.36,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Versailles,France
+11-10-2004,10304,40,80.92,1982 Camaro Z28,Classic Cars,46.53,Versailles,France
+13-10-2004,10305,38,130.01,1962 LanciaA Delta 16V,Classic Cars,103.42,Cambridge,USA
+13-10-2004,10305,38,107.84,1957 Chevy Pickup,Trucks and Buses,55.7,Cambridge,USA
+13-10-2004,10305,27,132.62,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Cambridge,USA
+13-10-2004,10305,36,117.82,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Cambridge,USA
+13-10-2004,10305,41,58.95,1926 Ford Fire Engine,Trucks and Buses,24.92,Cambridge,USA
+13-10-2004,10305,37,160.87,1992 Ferrari 360 Spider red,Classic Cars,77.9,Cambridge,USA
+13-10-2004,10305,22,112.6,1940s Ford truck,Trucks and Buses,84.76,Cambridge,USA
+13-10-2004,10305,45,48.55,1970 Dodge Coronet,Classic Cars,32.37,Cambridge,USA
+13-10-2004,10305,24,107.34,1962 Volkswagen Microbus,Trucks and Buses,61.34,Cambridge,USA
+13-10-2004,10305,48,30.76,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Cambridge,USA
+13-10-2004,10305,36,118.28,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Cambridge,USA
+13-10-2004,10305,28,94.38,1980’s GM Manhattan Express,Trucks and Buses,53.93,Cambridge,USA
+13-10-2004,10305,40,48.7,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Cambridge,USA
+13-10-2004,10305,42,109.96,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Cambridge,USA
+14-10-2004,10306,31,182.86,2001 Ferrari Enzo,Classic Cars,95.59,Manchester,UK
+14-10-2004,10306,34,145.04,1969 Corvair Monza,Classic Cars,89.14,Manchester,UK
+14-10-2004,10306,20,145.34,1969 Ford Falcon,Classic Cars,83.05,Manchester,UK
+14-10-2004,10306,32,114.74,1903 Ford Model A,Vintage Cars,68.3,Manchester,UK
+14-10-2004,10306,40,83.7,Collectable Wooden Train,Trains,67.56,Manchester,UK
+14-10-2004,10306,23,126.39,1970 Triumph Spitfire,Classic Cars,91.92,Manchester,UK
+14-10-2004,10306,39,85.14,1904 Buick Runabout,Vintage Cars,52.66,Manchester,UK
+14-10-2004,10306,29,109.37,18th century schooner,Ships,82.34,Manchester,UK
+14-10-2004,10306,31,76.12,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Manchester,UK
+14-10-2004,10306,46,60.28,1950's Chicago Surface Lines Streetcar,Trains,26.72,Manchester,UK
+14-10-2004,10306,34,51.55,1962 City of Detroit Streetcar,Trains,37.49,Manchester,UK
+14-10-2004,10306,50,61.34,The Schooner Bluenose,Ships,34,Manchester,UK
+14-10-2004,10306,38,73.62,The Mayflower,Ships,43.3,Manchester,UK
+14-10-2004,10306,43,62.16,The USS Constitution Ship,Ships,33.97,Manchester,UK
+14-10-2004,10306,32,99.17,The Titanic,Ships,51.09,Manchester,UK
+14-10-2004,10306,30,87.39,The Queen Mary,Ships,53.63,Manchester,UK
+14-10-2004,10306,35,48.05,Pont Yacht,Ships,33.3,Manchester,UK
+14-10-2004,10307,22,118.32,1972 Alfa Romeo GTA,Classic Cars,85.68,Philadelphia,USA
+14-10-2004,10307,39,135.61,1980s Black Hawk Helicopter,Planes,77.27,Philadelphia,USA
+14-10-2004,10307,31,71.4,1999 Yamaha Speed Boat,Ships,51.61,Philadelphia,USA
+14-10-2004,10307,48,92.11,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Philadelphia,USA
+14-10-2004,10307,25,58.23,1900s Vintage Bi-Plane,Planes,34.25,Philadelphia,USA
+14-10-2004,10307,22,64.44,1937 Horch 930V Limousine,Vintage Cars,26.3,Philadelphia,USA
+14-10-2004,10307,22,75.47,1940 Ford Delivery Sedan,Vintage Cars,48.64,Philadelphia,USA
+14-10-2004,10307,34,81.47,HMS Bounty,Ships,39.83,Philadelphia,USA
+14-10-2004,10307,34,44.2,Boeing X-32A JSF,Planes,32.77,Philadelphia,USA
+15-10-2004,10308,34,115.37,1996 Moto Guzzi 1100i,Motorcycles,68.99,White Plains,USA
+15-10-2004,10308,20,187.85,2003 Harley-Davidson Eagle Drag Bike,Motorcycles,91.02,White Plains,USA
+15-10-2004,10308,27,81.95,P-51-D Mustang,Planes,49,White Plains,USA
+15-10-2004,10308,34,48.46,1936 Harley Davidson El Knucklehead,Motorcycles,24.23,White Plains,USA
+15-10-2004,10308,31,99.57,1928 British Royal Navy Airplane,Planes,66.74,White Plains,USA
+15-10-2004,10308,47,68.55,1960 BSA Gold Star DBD34,Motorcycles,37.32,White Plains,USA
+15-10-2004,10308,43,58,Corsair F4U ( Bird Cage),Planes,29.34,White Plains,USA
+15-10-2004,10308,44,71.73,1900s Vintage Tri-Plane,Planes,36.23,White Plains,USA
+15-10-2004,10308,24,99.89,1997 BMW F650 ST,Motorcycles,66.92,White Plains,USA
+15-10-2004,10308,46,61.22,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,White Plains,USA
+15-10-2004,10308,47,37.09,1930 Buick Marquette Phaeton,Vintage Cars,27.06,White Plains,USA
+15-10-2004,10308,21,73.07,American Airlines: B767-300,Planes,51.15,White Plains,USA
+15-10-2004,10308,35,88.75,America West Airlines B757-200,Planes,68.8,White Plains,USA
+15-10-2004,10308,31,100.85,ATA: B757-300,Planes,59.33,White Plains,USA
+15-10-2004,10308,21,79.2,F/A 18 Hornet 1/72,Planes,54.4,White Plains,USA
+15-10-2004,10308,39,62.93,American Airlines: MD-11S,Planes,36.27,White Plains,USA
+15-10-2004,10309,41,94.74,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Stavern,Norway
+15-10-2004,10309,26,144.6,2002 Suzuki XREO,Motorcycles,66.27,Stavern,Norway
+15-10-2004,10309,21,96.92,1997 BMW R 1100 S,Motorcycles,60.86,Stavern,Norway
+15-10-2004,10309,24,59.56,1982 Ducati 900 Monster,Motorcycles,47.1,Stavern,Norway
+15-10-2004,10309,50,93.89,1974 Ducati 350 Mk3 Desmo,Motorcycles,56.13,Stavern,Norway
+15-10-2004,10309,28,74.04,2002 Yamaha YZR M1,Motorcycles,34.17,Stavern,Norway
+16-10-2004,10310,33,165.38,1968 Ford Mustang,Classic Cars,95.34,Köln,Germany
+16-10-2004,10310,24,105.7,1968 Dodge Charger,Classic Cars,75.16,Köln,Germany
+16-10-2004,10310,49,77.41,1970 Plymouth Hemi Cuda,Classic Cars,31.92,Köln,Germany
+16-10-2004,10310,25,101.34,1969 Dodge Charger,Classic Cars,58.73,Köln,Germany
+16-10-2004,10310,37,128.8,1993 Mazda RX-7,Classic Cars,83.51,Köln,Germany
+16-10-2004,10310,20,66.99,1948 Porsche 356-A Roadster,Classic Cars,53.9,Köln,Germany
+16-10-2004,10310,24,129.45,1995 Honda Civic,Classic Cars,93.89,Köln,Germany
+16-10-2004,10310,48,159.18,1992 Ferrari 360 Spider red,Classic Cars,77.9,Köln,Germany
+16-10-2004,10310,27,70.76,1969 Dodge Super Bee,Classic Cars,49.05,Köln,Germany
+16-10-2004,10310,49,122,1976 Ford Gran Torino,Classic Cars,73.49,Köln,Germany
+16-10-2004,10310,42,59.06,1957 Vespa GS150,Motorcycles,32.95,Köln,Germany
+16-10-2004,10310,40,133.92,1957 Corvette Convertible,Classic Cars,69.93,Köln,Germany
+16-10-2004,10310,33,33.23,1982 Lamborghini Diablo,Classic Cars,16.24,Köln,Germany
+16-10-2004,10310,38,50.21,1971 Alpine Renault 1600s,Classic Cars,38.58,Köln,Germany
+16-10-2004,10310,45,139.03,1956 Porsche 356A Coupe,Classic Cars,98.3,Köln,Germany
+16-10-2004,10310,49,75.18,1961 Chevrolet Impala,Classic Cars,32.33,Köln,Germany
+16-10-2004,10310,36,38.62,1982 Ducati 996 R,Motorcycles,24.14,Köln,Germany
+16-10-2004,10311,29,124.44,1965 Aston Martin DB5,Classic Cars,65.96,Madrid,Spain
+16-10-2004,10311,43,114.84,1999 Indy 500 Monte Carlo SS,Classic Cars,56.76,Madrid,Spain
+16-10-2004,10311,32,134.22,1948 Porsche Type 356 Roadster,Classic Cars,62.16,Madrid,Spain
+16-10-2004,10311,41,92.03,1932 Alfa Romeo 8C2300 Spider Sport,Vintage Cars,43.26,Madrid,Spain
+16-10-2004,10311,25,66.99,1957 Ford Thunderbird,Classic Cars,34.21,Madrid,Spain
+16-10-2004,10311,26,70.55,1970 Chevy Chevelle SS 454,Classic Cars,49.24,Madrid,Spain
+16-10-2004,10311,45,48.8,1966 Shelby Cobra 427 S/C,Classic Cars,29.18,Madrid,Spain
+16-10-2004,10311,28,89.05,1949 Jaguar XK 120,Classic Cars,47.25,Madrid,Spain
+16-10-2004,10311,43,116.27,1952 Citroen-15CV,Classic Cars,72.82,Madrid,Spain
+16-10-2004,10311,25,85.61,1969 Chevrolet Camaro Z28,Classic Cars,50.51,Madrid,Spain
+16-10-2004,10311,46,91.02,2002 Chevy Corvette,Classic Cars,62.11,Madrid,Spain
+21-10-2004,10312,48,214.3,1952 Alpine Renault 1300,Classic Cars,98.58,San Rafael,USA
+21-10-2004,10312,32,101.5,1940 Ford Pickup Truck,Trucks and Buses,58.33,San Rafael,USA
+21-10-2004,10312,43,102.74,1937 Lincoln Berline,Vintage Cars,60.62,San Rafael,USA
+21-10-2004,10312,25,43.67,1936 Mercedes-Benz 500K Special Roadster,Vintage Cars,24.26,San Rafael,USA
+21-10-2004,10312,48,146.2,1917 Grand Touring Sedan,Vintage Cars,86.7,San Rafael,USA
+21-10-2004,10312,30,48.43,1911 Ford Town Car,Vintage Cars,33.3,San Rafael,USA
+21-10-2004,10312,31,111.87,1932 Model A Ford J-Coupe,Vintage Cars,58.48,San Rafael,USA
+21-10-2004,10312,25,150.19,1928 Mercedes-Benz SSK,Vintage Cars,72.56,San Rafael,USA
+21-10-2004,10312,37,91.18,1913 Ford Model T Speedster,Vintage Cars,60.78,San Rafael,USA
+21-10-2004,10312,35,54.34,1934 Ford V8 Coupe,Vintage Cars,34.35,San Rafael,USA
+21-10-2004,10312,38,93.2,18th Century Vintage Horse Carriage,Vintage Cars,60.74,San Rafael,USA
+21-10-2004,10312,33,84.33,1917 Maxwell Touring Car,Vintage Cars,57.54,San Rafael,USA
+21-10-2004,10312,39,44.27,1939 Cadillac Limousine,Vintage Cars,23.14,San Rafael,USA
+21-10-2004,10312,39,27.88,1939 Chevrolet Deluxe Coupe,Vintage Cars,22.57,San Rafael,USA
+21-10-2004,10312,23,43.46,1938 Cadillac V-16 Presidential Limousine,Vintage Cars,20.61,San Rafael,USA
+21-10-2004,10312,31,40.21,1936 Mercedes Benz 500k Roadster,Vintage Cars,21.75,San Rafael,USA
+21-10-2004,10312,44,96.42,1936 Chrysler Airflow,Vintage Cars,57.46,San Rafael,USA
+22-10-2004,10313,40,141.83,1962 LanciaA Delta 16V,Classic Cars,103.42,Vancouver,Canada
+22-10-2004,10313,21,131.2,1958 Setra Bus,Trucks and Buses,77.9,Vancouver,Canada
+22-10-2004,10313,29,109.23,1964 Mercedes Tour Bus,Trucks and Buses,74.86,Vancouver,Canada
+22-10-2004,10313,34,52.87,1926 Ford Fire Engine,Trucks and Buses,24.92,Vancouver,Canada
+22-10-2004,10313,25,143.94,1992 Ferrari 360 Spider red,Classic Cars,77.9,Vancouver,Canada
+22-10-2004,10313,28,110.18,1940s Ford truck,Trucks and Buses,84.76,Vancouver,Canada
+22-10-2004,10313,42,102.23,1962 Volkswagen Microbus,Trucks and Buses,61.34,Vancouver,Canada
+22-10-2004,10313,27,96.31,1980’s GM Manhattan Express,Trucks and Buses,53.93,Vancouver,Canada
+22-10-2004,10313,38,48.7,1954 Greyhound Scenicruiser,Trucks and Buses,25.98,Vancouver,Canada
+22-10-2004,10313,34,55.59,1996 Peterbilt 379 Stake Bed with Outrigger,Trucks and Buses,33.61,Vancouver,Canada
+22-10-2004,10313,30,96.09,1982 Camaro Z28,Classic Cars,46.53,Vancouver,Canada
+22-10-2004,10314,38,176.63,2001 Ferrari Enzo,Classic Cars,95.59,Århus,Denmark
+22-10-2004,10314,46,125.4,1969 Corvair Monza,Classic Cars,89.14,Århus,Denmark
+22-10-2004,10314,36,169.56,1969 Ford Falcon,Classic Cars,83.05,Århus,Denmark
+22-10-2004,10314,45,95.99,1957 Chevy Pickup,Trucks and Buses,55.7,Århus,Denmark
+22-10-2004,10314,42,135.9,1998 Chrysler Plymouth Prowler,Classic Cars,101.51,Århus,Denmark
+22-10-2004,10314,20,129.76,1903 Ford Model A,Vintage Cars,68.3,Århus,Denmark
+22-10-2004,10314,23,84.71,Collectable Wooden Train,Trains,67.56,Århus,Denmark
+22-10-2004,10314,29,129.26,1970 Triumph Spitfire,Classic Cars,91.92,Århus,Denmark
+22-10-2004,10314,44,51.44,1970 Dodge Coronet,Classic Cars,32.37,Århus,Denmark
+22-10-2004,10314,39,31.82,1958 Chevy Corvette Limited Edition,Classic Cars,15.91,Århus,Denmark
+22-10-2004,10314,38,111.18,1992 Porsche Cayenne Turbo Silver,Classic Cars,69.78,Århus,Denmark
+22-10-2004,10314,35,58.41,1950's Chicago Surface Lines Streetcar,Trains,26.72,Århus,Denmark
+22-10-2004,10314,28,115.75,Diamond T620 Semi-Skirted Tanker,Trucks and Buses,68.29,Århus,Denmark
+22-10-2004,10314,38,50.38,1962 City of Detroit Streetcar,Trains,37.49,Århus,Denmark
+22-10-2004,10314,23,83.15,The Mayflower,Ships,43.3,Århus,Denmark
+29-10-2004,10315,36,78.12,1904 Buick Runabout,Vintage Cars,52.66,Nantes,France
+29-10-2004,10315,35,111.83,18th century schooner,Ships,82.34,Nantes,France
+29-10-2004,10315,24,78.77,1912 Ford Model T Delivery Wagon,Vintage Cars,46.91,Nantes,France
+29-10-2004,10315,41,60.67,The Schooner Bluenose,Ships,34,Nantes,France
+29-10-2004,10315,31,99.17,The Titanic,Ships,51.09,Nantes,France
+29-10-2004,10315,37,88.39,The Queen Mary,Ships,53.63,Nantes,France
+29-10-2004,10315,40,51.32,Pont Yacht,Ships,33.3,Nantes,France
+01-11-2004,10316,33,126.48,1972 Alfa Romeo GTA,Classic Cars,85.68,Cowes,UK
+01-11-2004,10316,27,140.34,1980s Black Hawk Helicopter,Planes,77.27,Cowes,UK
+01-11-2004,10316,21,72.26,1999 Yamaha Speed Boat,Ships,51.61,Cowes,UK
+01-11-2004,10316,47,89.99,1941 Chevrolet Special Deluxe Cabriolet,Vintage Cars,64.58,Cowes,UK
+01-11-2004,10316,25,93.01,1928 British Royal Navy Airplane,Planes,66.74,Cowes,UK
+01-11-2004,10316,34,67.14,1900s Vintage Bi-Plane,Planes,34.25,Cowes,UK
+01-11-2004,10316,47,55.23,1937 Horch 930V Limousine,Vintage Cars,26.3,Cowes,UK
+01-11-2004,10316,25,77.15,1940 Ford Delivery Sedan,Vintage Cars,48.64,Cowes,UK
+01-11-2004,10316,30,67.56,Corsair F4U ( Bird Cage),Planes,29.34,Cowes,UK
+01-11-2004,10316,24,59.16,1928 Ford Phaeton Deluxe,Vintage Cars,33.02,Cowes,UK
+01-11-2004,10316,34,36.66,1930 Buick Marquette Phaeton,Vintage Cars,27.06,Cowes,UK
+01-11-2004,10316,34,74.9,American Airlines: B767-300,Planes,51.15,Cowes,UK
+01-11-2004,10316,45,73.32,HMS Bounty,Ships,39.83,Cowes,UK
+01-11-2004,10316,23,85.76,America West Airlines B757-200,Planes,68.8,Cowes,UK
+01-11-2004,10316,48,67.22,The USS Constitution Ship,Ships,33.97,Cowes,UK
+01-11-2004,10316,48,77.6,F/A 18 Hornet 1/72,Planes,54.4,Cowes,UK
+01-11-2004,10316,44,68.11,American Airlines: MD-11S,Planes,36.27,Cowes,UK
+01-11-2004,10316,34,43.7,Boeing X-32A JSF,Planes,32.77,Cowes,UK
+02-11-2004,10317,35,69.55,1900s Vintage Tri-Plane,Planes,36.23,Burlingame,USA
+02-11-2004,10318,46,84.22,1969 Harley Davidson Ultimate Chopper,Motorcycles,48.81,Allentown,USA
+02-11-2004,10318,45,102.29,1996 Moto Guzzi 1100i,Motorcycles,68.99,Allentown,USA
