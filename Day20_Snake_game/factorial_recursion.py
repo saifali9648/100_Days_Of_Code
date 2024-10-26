@@ -5,6 +5,4 @@ def factorial(n):
     # Recursive case
     else:
         return n * factorial(n - 1)
-
-
 print(factorial(5))
